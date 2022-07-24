@@ -1,0 +1,443 @@
+//CreationDate = 2014-09-11T12:48:52.443//Tags = <java><jar>//Score = 1//Title = How to build jar artifact so at run-time it will be able to read packed files?//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2014-12-02T05:25:04.200//Tags = <java><jakarta-ee><socket.io-java-client>//Score = 2//Title = java.net.SocketException: Connection reset With HTTPConnection//AnswerCount = 4//CommentCount = 4
+//CreationDate = 2018-02-01T14:47:47.997//Tags = <java><json><ajax><rest><spring-mvc>//Score = 1//Title = Ajax + Spring Boot/Spring MVC/Jackson + data is truncated?//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2014-04-11T13:57:05.557//Tags = <java><android><eclipse><spinner>//Score = 2//Title = Spinner in Dialog not showing items?//AnswerCount = 0//CommentCount = 9
+//CreationDate = 2015-07-10T14:10:05.460//Tags = <java><spring><spring-mvc><jboss><wildfly>//Score = 1//Title = Spring MVC 4: Interceptor not being able to set Response header//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-10-12T18:14:11.957//Tags = <java><multithreading><class><delay>//Score = 0//Title = Implementing a delay without thread usage//AnswerCount = 1//CommentCount = 7
+//CreationDate = 2019-11-19T12:06:29.330//Tags = <java><spring><aop><aspectj><aspect>//Score = 0//Title = Create AspectJ for annotation with Target=ElementType.TYPE (Class annotation)//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2013-10-03T22:36:01.577//Tags = <java><json>//Score = 63//Title = How to test if JSON object is empty in Java//AnswerCount = 15//CommentCount = 0//FavoriteCount = 8
+//CreationDate = 2013-10-03T22:36:01.577//Tags = <java><json>//Score = 63//Title = How to test if JSON object is empty in Java//AnswerCount = 15//CommentCount = 0//FavoriteCount = 8
+//CreationDate = 2013-06-13T16:50:46.310//Tags = <java><printing>//Score = 16//Title = How to obtain the location of a printer//AnswerCount = 1//CommentCount = 2//FavoriteCount = 3
+//CreationDate = 2010-05-19T16:19:28.947//Tags = <c#><java><naming-conventions>//Score = 8//Title = Do vs. Run vs. Execute vs. Perform verbs//AnswerCount = 7//CommentCount = 0//FavoriteCount = 1
+//CreationDate = 2014-07-08T10:25:29.107//Tags = <java><samtools>//Score = 0//Title = Running GATK DepthOfCoverage on BAM files with multiple RG's//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2014-07-08T10:25:29.107//Tags = <java><samtools>//Score = 0//Title = Running GATK DepthOfCoverage on BAM files with multiple RG's//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-09-18T20:01:32.133//Tags = <java><jetty><dropwizard><embedded-jetty>//Score = 0//Title = Keep-Alive Dropwizard//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2018-10-21T05:02:57.517//Tags = <java><methods><main>//Score = 0//Title = How do I make one method that does calculations take variables from 4+ methods to do the calculations with?//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2018-11-30T01:01:57.307//Tags = <java><concurrency><executorservice><executor>//Score = 1//Title = Java Executor running concurrently work1 and sequential work2//AnswerCount = 0//CommentCount = 0//FavoriteCount = 0
+//CreationDate = 2018-11-30T01:01:57.307//Tags = <java><concurrency><executorservice><executor>//Score = 1//Title = Java Executor running concurrently work1 and sequential work2//AnswerCount = 0//CommentCount = 0//FavoriteCount = 0
+//CreationDate = 2015-06-16T08:40:33.333//Tags = <java><liferay><servlet-filters>//Score = 0//Title = Access PortletSession (ApplicationScope) in Liferay Filter Hook//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2014-03-17T23:45:11.107//Tags = <java><algorithm><recursion><matrix><maze>//Score = 5//Title = Recursive Maze Algorithm//AnswerCount = 1//CommentCount = 5
+//CreationDate = 2017-03-31T16:31:49.533//Tags = <java><swing><jtextarea>//Score = 0//Title = Console Output and User Input in JTextArea//AnswerCount = 1//CommentCount = 4//FavoriteCount = 1
+//CreationDate = 2014-05-30T15:49:57.133//Tags = <java><apache><delete-file><ftp-client><ftps>//Score = 0//Title = How can I delete a file from an ftp server using a java program that are N weeks old//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2015-11-29T20:31:02.933//Tags = <java><dynamic-programming>//Score = 2//Title = Longest Common Substring algorithm//AnswerCount = 1//CommentCount = 0//FavoriteCount = 1
+//CreationDate = 2014-06-19T14:23:01.780//Tags = <java><ant><compiler-construction><javac>//Score = 0//Title = javac default memoryInitialSize and memoryMaximumSize?//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2014-06-19T14:23:01.780//Tags = <java><ant><compiler-construction><javac>//Score = 0//Title = javac default memoryInitialSize and memoryMaximumSize?//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2014-10-21T07:47:58.007//Tags = <java><soap><wsdl><jax-ws>//Score = 0//Title = How to convert List<Integer> to ArrayOfInt (not to be mistaken with int[])//AnswerCount = 1//CommentCount = 6
+//CreationDate = 2014-10-21T07:47:58.007//Tags = <java><soap><wsdl><jax-ws>//Score = 0//Title = How to convert List<Integer> to ArrayOfInt (not to be mistaken with int[])//AnswerCount = 1//CommentCount = 6
+//CreationDate = 2014-10-08T23:29:19.173//Tags = <java><javascript><nashorn>//Score = 1//Title = Object.bindProperties() Method of Nashorn//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2014-12-25T14:28:39.203//Tags = <java><multithreading>//Score = -5//Title = Quiz implementation using sleep() method of thread//AnswerCount = 1//CommentCount = 6//FavoriteCount = 1
+//CreationDate = 2014-12-25T14:28:39.203//Tags = <java><multithreading>//Score = -5//Title = Quiz implementation using sleep() method of thread//AnswerCount = 1//CommentCount = 6//FavoriteCount = 1
+//CreationDate = 2014-12-25T14:28:39.203//Tags = <java><multithreading>//Score = -5//Title = Quiz implementation using sleep() method of thread//AnswerCount = 1//CommentCount = 6//FavoriteCount = 1
+//CreationDate = 2015-08-11T10:28:33.157//Tags = <java><hibernate><jpa>//Score = 0//Title = JPA: How do I load an entity with a Foreign Key without loading the related entity//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2014-06-05T22:27:42.130//Tags = <java><multithreading><swing><swingworker>//Score = 0//Title = need to update variables, main thread or different thread?//AnswerCount = 2//CommentCount = 3
+//CreationDate = 2014-12-06T16:40:34.553//Tags = <java><arrays>//Score = 13//Title = Can you index an array with a long int?//AnswerCount = 3//CommentCount = 1//FavoriteCount = 1
+//CreationDate = 2014-04-05T00:56:49.377//Tags = <java>//Score = 0//Title = How to transform hexadecimal string into Byte. Java//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2018-05-16T14:33:51.190//Tags = <java><list><spring-mvc><vaadin><user-input>//Score = 0//Title = Displaying user input via list//AnswerCount = 1//CommentCount = 5
+//CreationDate = 2015-09-29T21:54:33.230//Tags = <java><junit><mockito><powermock><easymock>//Score = 1//Title = java.lang.IllegalArgumentException: Not a mock: java.lang.Class on PowerMock and EasyMock//AnswerCount = 2//CommentCount = 1
+//CreationDate = 2018-05-13T16:23:51.117//Tags = <java><jpanel><jlabel><jtextfield>//Score = 0//Title = JLabel won't show up on JPanel//AnswerCount = 0//CommentCount = 3
+//CreationDate = 2017-06-30T06:51:30.520//Tags = <java><generics>//Score = 3//Title = Call method using type variable generics//AnswerCount = 3//CommentCount = 8//FavoriteCount = 1
+//CreationDate = 2018-12-07T08:39:30.070//Tags = <java><spring-boot><redis><redis-sentinel><redisson>//Score = 0//Title = Spring Redisson Sentinel Error - At least two sentinels are required//AnswerCount = 2//CommentCount = 2
+//CreationDate = 2017-08-22T12:57:05.690//Tags = <java><algorithm><sorting>//Score = 13//Title = Java 8 advanced sort//AnswerCount = 2//CommentCount = 13//FavoriteCount = 3
+//CreationDate = 2017-08-22T12:57:05.690//Tags = <java><algorithm><sorting>//Score = 13//Title = Java 8 advanced sort//AnswerCount = 2//CommentCount = 13//FavoriteCount = 3
+//CreationDate = 2014-05-28T23:27:42.040//Tags = <java><jersey><jax-rs>//Score = 1//Title = How can I make JAX-RS uri encode the response//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2014-09-01T15:24:26.970//Tags = <java><scala>//Score = 4//Title = Using Option[Boolean] from Java//AnswerCount = 4//CommentCount = 0
+//CreationDate = 2015-10-26T15:48:32.727//Tags = <java><xml><hibernate>//Score = 0//Title = hibernate foo.hbm.xml not-null="true" only relevant for writing?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-10-26T15:48:32.727//Tags = <java><xml><hibernate>//Score = 0//Title = hibernate foo.hbm.xml not-null="true" only relevant for writing?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2013-11-20T15:43:38.807//Tags = <java><asynchttpclient><ning>//Score = 1//Title = it always show Remotely Closed when I use ning's async-http-client jar//AnswerCount = 0//CommentCount = 0
+//CreationDate = 2013-11-20T15:43:38.807//Tags = <java><asynchttpclient><ning>//Score = 1//Title = it always show Remotely Closed when I use ning's async-http-client jar//AnswerCount = 0//CommentCount = 0
+//CreationDate = 2013-11-20T15:43:38.807//Tags = <java><asynchttpclient><ning>//Score = 1//Title = it always show Remotely Closed when I use ning's async-http-client jar//AnswerCount = 0//CommentCount = 0
+//CreationDate = 2012-01-13T07:51:42.657//Tags = <java><jasper-reports><dynamic-jasper>//Score = 0//Title = Strikethrough in DynamicJasper//AnswerCount = 1//CommentCount = 3//FavoriteCount = 0
+//CreationDate = 2014-05-01T16:53:24.093//Tags = <java><exception><try-catch>//Score = 0//Title = I can't throw NoRouteToHostException even with catch(Exception e)//AnswerCount = 2//CommentCount = 4
+//CreationDate = 2013-01-17T10:59:09.537//Tags = <java><xml><maven-2>//Score = 2//Title = Looking for a tool to apply XML patches in Java / Maven//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2013-01-17T10:59:09.537//Tags = <java><xml><maven-2>//Score = 2//Title = Looking for a tool to apply XML patches in Java / Maven//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2018-05-26T01:53:44.190//Tags = <java><android><firebase><firebase-realtime-database>//Score = 0//Title = How can i get a node name on firebase?//AnswerCount = 2//CommentCount = 2
+//CreationDate = 2014-09-19T04:59:06.837//Tags = <java><inheritance><overriding>//Score = 1//Title = Java override class member with different type//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2014-09-19T04:59:06.837//Tags = <java><inheritance><overriding>//Score = 1//Title = Java override class member with different type//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2012-10-30T23:27:42.470//Tags = <java><gwt><user-interface><widget>//Score = 0//Title = GWT: When to use Button and when to use ButtonCell//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2011-12-02T20:31:01.137//Tags = <java>//Score = 0//Title = Read each line in a text file for strings, doubles, and ints an place them in different arrays//AnswerCount = 2//CommentCount = 1
+//CreationDate = 2014-04-24T18:13:45.320//Tags = <java><memory-leaks><heap-dump>//Score = 7//Title = Java Memory "Leak" with ConcurrentLinkedQueue$Node//AnswerCount = 2//CommentCount = 6//FavoriteCount = 2
+//CreationDate = 2017-07-16T05:09:16.483//Tags = <java><string><methods><get>//Score = 0//Title = Im wondering why when I get the string output at then end perimeter is not being calculated and put in the string//AnswerCount = 2//CommentCount = 3
+//CreationDate = 2017-11-13T11:26:14.087//Tags = <java><arrays><json><spring><jackson>//Score = 2//Title = How To Parse JSON Object Array with Jackson Into DTO In SpringBoot//AnswerCount = 1//CommentCount = 0//FavoriteCount = 1
+//CreationDate = 2017-07-16T14:07:15.367//Tags = <java><date>//Score = 0//Title = Java WEEK_OF_YEAR//AnswerCount = 2//CommentCount = 1
+//CreationDate = 2017-07-09T09:40:26.357//Tags = <java>//Score = -1//Title = Why do I get "Pair cannot be cast to java.lang.Comparable" error?//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2015-06-03T19:48:06.497//Tags = <java><android><libgdx>//Score = 0//Title = Android build crashes when looping through an 2D array - libGDX//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2019-01-17T14:10:00.647//Tags = <java><spring><spring-boot><oauth-2.0><spring-security-oauth2>//Score = 3//Title = Spring Oauth2 redirect uri doesn't change//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2014-06-01T11:34:36.077//Tags = <java><excel><com><jacob>//Score = 0//Title = run excel using com interface//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2019-11-04T14:31:45.867//Tags = <java><webkit><html-parsing>//Score = 0//Title = How to obtain html from loaded page using WebKit in Java//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2019-11-04T14:31:45.867//Tags = <java><webkit><html-parsing>//Score = 0//Title = How to obtain html from loaded page using WebKit in Java//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2019-11-04T14:31:45.867//Tags = <java><webkit><html-parsing>//Score = 0//Title = How to obtain html from loaded page using WebKit in Java//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2019-11-04T14:31:45.867//Tags = <java><webkit><html-parsing>//Score = 0//Title = How to obtain html from loaded page using WebKit in Java//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2019-11-04T14:31:45.867//Tags = <java><webkit><html-parsing>//Score = 0//Title = How to obtain html from loaded page using WebKit in Java//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2019-11-04T14:31:45.867//Tags = <java><webkit><html-parsing>//Score = 0//Title = How to obtain html from loaded page using WebKit in Java//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2019-11-04T14:31:45.867//Tags = <java><webkit><html-parsing>//Score = 0//Title = How to obtain html from loaded page using WebKit in Java//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2019-11-04T14:31:45.867//Tags = <java><webkit><html-parsing>//Score = 0//Title = How to obtain html from loaded page using WebKit in Java//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2019-11-04T14:31:45.867//Tags = <java><webkit><html-parsing>//Score = 0//Title = How to obtain html from loaded page using WebKit in Java//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2019-07-26T02:24:14.963//Tags = <java><public-key-encryption><pkcs#11><encryption-symmetric>//Score = 0//Title = While creating keyztore instance getting error as pkcs11 not found//AnswerCount = 0//CommentCount = 3
+//CreationDate = 2016-02-03T23:11:04.957//Tags = <java><web-services><web><ibm-was><jax-rpc>//Score = 0//Title = javax.servlet.ServletException: WSWS3142E: Error: Could not find Web services engine//AnswerCount = 1//CommentCount = 4
+//CreationDate = 2017-07-11T00:43:45.780//Tags = <java><android><html><xml><android-layout>//Score = 0//Title = Html.fromHtml not working?//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2017-09-11T11:07:12.203//Tags = <java><spring><spring-security><integration-testing><security-context>//Score = 4//Title = How to mock security context in tests if I disabled authorizarion//AnswerCount = 1//CommentCount = 7//FavoriteCount = 0
+//CreationDate = 2017-07-28T06:13:37.103//Tags = <java><json><soap>//Score = 2//Title = To convert SOAP response to JSONArray//AnswerCount = 2//CommentCount = 0//FavoriteCount = 1
+//CreationDate = 2012-10-18T02:24:11.447//Tags = <java>//Score = 1//Title = Java split list//AnswerCount = 2//CommentCount = 1
+//CreationDate = 2012-05-07T21:48:20.627//Tags = <java><javascript><css><jsf><jsf-2>//Score = 3//Title = How to create shadow in JSF input field//AnswerCount = 3//CommentCount = 0//FavoriteCount = 1
+//CreationDate = 2018-04-03T20:30:48.500//Tags = <java><android><post><woocommerce><get>//Score = 1//Title = WooCommerce REST API with Android e-commerce app//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2013-09-02T06:36:50.127//Tags = <java><android><timer><imageview>//Score = 0//Title = How to Implement Timer on Android quiz?//AnswerCount = 2//CommentCount = 11//FavoriteCount = 1
+//CreationDate = 2016-07-01T02:50:25.240//Tags = <java><eclipse><windows>//Score = 0//Title = Eclipse Run Configurations Machine Name//AnswerCount = 2//CommentCount = 2
+//CreationDate = 2016-03-30T21:26:01.597//Tags = <java><multithreading>//Score = 0//Title = Duplicate local variable for naming thread//AnswerCount = 1//CommentCount = 9
+//CreationDate = 2019-02-06T14:37:26.347//Tags = <java><spring><spring-boot><intellij-idea><hotswap>//Score = 4//Title = Hot to HotSwap code in Intellij in a Spring-Boot project?//AnswerCount = 1//CommentCount = 2//FavoriteCount = 1
+//CreationDate = 2017-02-21T00:15:27.690//Tags = <java><hibernate>//Score = 0//Title = Wrong number of column ?//AnswerCount = 0//CommentCount = 6
+//CreationDate = 2016-12-19T17:09:01.147//Tags = <java><hadoop><mapreduce><jena>//Score = -1//Title = NodeWritable java.lang.NoClassDefFoundError Hadoop Jena//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2018-01-19T15:35:40.733//Tags = <java><scala><shell><bouncycastle><sha>//Score = 0//Title = Unable to get matching SHA1 digest from bouncycastle and openssl dgst//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2010-04-07T11:52:58.543//Tags = <java><jar><dependencies><manifest>//Score = 3//Title = How can I specify dependencies in the manifest file and then to include it into my .jar file?//AnswerCount = 2//CommentCount = 0//FavoriteCount = 1
+//CreationDate = 2018-05-17T15:29:43.400//Tags = <java><parallel-processing><queue><etl><blocking>//Score = 0//Title = Java - How to optimize this file writer component in a Reader/Processor/Writer pattern//AnswerCount = 0//CommentCount = 3
+//CreationDate = 2016-01-20T10:51:30.547//Tags = <javascript><java><firefox><imacros>//Score = 0//Title = IMacros Reading/Writing From/To CSV File//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2018-05-13T15:09:24.197//Tags = <java><swing><layout-manager>//Score = 1//Title = Java - Unable to move position of JTextField//AnswerCount = 2//CommentCount = 9
+//CreationDate = 2018-05-13T15:09:24.197//Tags = <java><swing><layout-manager>//Score = 1//Title = Java - Unable to move position of JTextField//AnswerCount = 2//CommentCount = 9
+//CreationDate = 2016-02-18T10:05:06.190//Tags = <java><string>//Score = -4//Title = what is the difference between the 2 cases; in java strings?//AnswerCount = 2//CommentCount = 2
+//CreationDate = 2018-06-19T12:23:44.230//Tags = <java><encryption><memory-management>//Score = 0//Title = Java, encoding with my custom cipher//AnswerCount = 1//CommentCount = 9
+//CreationDate = 2016-02-14T21:52:40.387//Tags = <java><android>//Score = -1//Title = Cannot find symbol class ScaleListener (For Pinch Zoom Feature)//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2019-06-17T04:09:22.013//Tags = <java><spring-boot><gradle><build.gradle>//Score = 2//Title = Gradle build: Exclude resources files from Spring Boot Jar file//AnswerCount = 1//CommentCount = 0//FavoriteCount = 1
+//CreationDate = 2011-11-30T00:17:43.720//Tags = <java><scala><intellij-idea><sbt><vaadin>//Score = 1//Title = IOException in Widgetset compilation in Scala with SBT and Intellij//AnswerCount = 1//CommentCount = 5
+//CreationDate = 2013-08-19T16:00:26.470//Tags = <java>//Score = 3//Title = Stuck on Recursive Pattern in Java (ZigZag)//AnswerCount = 2//CommentCount = 3//FavoriteCount = 1
+//CreationDate = 2016-04-21T11:13:38.520//Tags = <java><maven><maven-3>//Score = 2//Title = Does such property overriding work in Maven3?//AnswerCount = 2//CommentCount = 4
+//CreationDate = 2019-02-07T23:01:11.117//Tags = <java><spring><hibernate><jdbc><spring-data-jpa>//Score = 0//Title = Spring-jdbc-4.0.5.release: Set DriverManagerDataSource connection timeout programmatically//AnswerCount = 0//CommentCount = 3
+//CreationDate = 2015-04-11T11:35:08.877//Tags = <java><arrays><char>//Score = -1//Title = Reading chars from input//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2015-04-11T11:35:08.877//Tags = <java><arrays><char>//Score = -1//Title = Reading chars from input//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2015-04-11T11:35:08.877//Tags = <java><arrays><char>//Score = -1//Title = Reading chars from input//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2015-11-09T23:33:38.490//Tags = <java><serialization><java-io>//Score = 6//Title = Serialization:java.io.StreamCorruptedException: invalid stream header: 0AACED00//AnswerCount = 2//CommentCount = 11
+//CreationDate = 2015-08-11T12:21:32.927//Tags = <java><jasper-reports><docx><jasperserver>//Score = 1//Title = Jasper update - colums in Table don't export good to docx after update to 6.0.1//AnswerCount = 0//CommentCount = 10//FavoriteCount = 2
+//CreationDate = 2016-12-09T11:05:36.887//Tags = <java><apache-spark><tuples><rdd><keyvaluepair>//Score = 5//Title = Spark: How RDD.map/mapToPair work with Java//AnswerCount = 3//CommentCount = 0//FavoriteCount = 3
+//CreationDate = 2019-03-23T18:40:51.070//Tags = <java><generics><arraylist>//Score = 2//Title = How to set random values in generic class//AnswerCount = 3//CommentCount = 3
+//CreationDate = 2015-07-04T13:44:44.420//Tags = <java><swing><concurrency><jlabel><event-dispatch-thread>//Score = 0//Title = Updating JLabel with thread//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2016-01-31T22:09:13.963//Tags = <java><android><android-studio>//Score = 0//Title = Why won't my android service that plays music work?//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2016-04-07T10:40:45.447//Tags = <java>//Score = 0//Title = Handling multiple menu inputs java - returning to while loop in main?//AnswerCount = 2//CommentCount = 3//FavoriteCount = 1
+//CreationDate = 2016-04-07T10:40:45.447//Tags = <java>//Score = 0//Title = Handling multiple menu inputs java - returning to while loop in main?//AnswerCount = 2//CommentCount = 3//FavoriteCount = 1
+//CreationDate = 2016-02-26T03:59:02.163//Tags = <java><future><completable-future>//Score = 1//Title = unreported exception when throwing from a lambda in a Completable Future//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-07-28T18:47:25.410//Tags = <java><spring><spring-mvc><servlets><web-applications>//Score = 0//Title = How do I add a servlet to spring framework java web application?//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2012-12-22T19:13:40.973//Tags = <java><graphics><2d><lwjgl>//Score = 0//Title = How to modify the default drawing color lwjgl//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2013-07-03T23:06:12.553//Tags = <java><generics><inheritance><interface>//Score = 0//Title = Incompatibility using Java Generics, Interfaces and Inheritance//AnswerCount = 1//CommentCount = 10
+//CreationDate = 2011-04-11T06:41:19.397//Tags = <java><encapsulation><getter><tell-dont-ask>//Score = 3//Title = How can I avoid getters AND avoid hard coding the UI?//AnswerCount = 6//CommentCount = 5
+//CreationDate = 2015-02-11T20:21:24.030//Tags = <java><maven><logging><log4j><log4j2>//Score = 3//Title = Transitive log4j2 dependency - configuration failing//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2014-09-03T03:51:40.913//Tags = <java><android><performance><sdk><proguard>//Score = 0//Title = Proguard returned with error code 1 - trying to use Proguard//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2013-11-20T15:35:52.730//Tags = <java><jdbc>//Score = 0//Title = SQLException: Operation not allowed after ResultSet closed error//AnswerCount = 5//CommentCount = 3
+//CreationDate = 2013-11-26T13:09:17.317//Tags = <java><conditional-statements><thread-dump><thread-state>//Score = 7//Title = java threadump significance of "waiting on condition"//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-08-28T08:01:53.847//Tags = <java><parsing><dom><freeze><doctype>//Score = 0//Title = DOM Parser freezes with an HTML having a DOCTYPE declaration//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2018-05-18T09:19:12.643//Tags = <java><memory-leaks><vert.x>//Score = 0//Title = Memory Leak in io.vertx.core.impl.EventLoopContext in Java Application//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2015-11-16T08:18:00.877//Tags = <java><web-services><maven><ant><wsdl>//Score = 0//Title = Source files generation from WSDL using maven//AnswerCount = 0//CommentCount = 4
+//CreationDate = 2017-07-14T04:30:33.983//Tags = <java><android><variables><android-asynctask><global>//Score = 1//Title = Global Variable returning to 0.0 after completion of an AsyncTask//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2014-09-26T13:53:33.617//Tags = <java><mysql><jsf><jpa>//Score = 0//Title = Multiple Serial Number Generation in JSF/JPA Application//AnswerCount = 0//CommentCount = 8
+//CreationDate = 2014-09-26T13:53:33.617//Tags = <java><mysql><jsf><jpa>//Score = 0//Title = Multiple Serial Number Generation in JSF/JPA Application//AnswerCount = 0//CommentCount = 8
+//CreationDate = 2017-07-05T14:21:42.203//Tags = <java><android><module><libraries><zxing>//Score = 1//Title = Android Studio not recognising changes made in imported project library module//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2016-02-14T17:11:46.317//Tags = <java>//Score = -1//Title = A class to calculate the range of a car in java//AnswerCount = 3//CommentCount = 2
+//CreationDate = 2014-03-24T13:40:11.630//Tags = <java><antlr><antlr4>//Score = -1//Title = ANTLR 4 Not all tokens being displayed//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-10-25T13:35:24.023//Tags = <java><session><servlets><serialization><wicket>//Score = 0//Title = Does wicket perform session serialization?//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2012-10-01T22:38:11.723//Tags = <java><multithreading><synchronization><bank>//Score = 1//Title = Java Multi-threaded bank transfer, synchronization issues//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2012-10-01T22:38:11.723//Tags = <java><multithreading><synchronization><bank>//Score = 1//Title = Java Multi-threaded bank transfer, synchronization issues//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-03-19T15:51:19.220//Tags = <java><spring><tomcat><twitter-oauth><spring-social>//Score = 1//Title = Spring-Social sign-in not working properly//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-04-12T02:54:12.907//Tags = <java><android><flashlight>//Score = 0//Title = Android turning off flash on second launch of activity//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2010-03-16T06:57:23.973//Tags = <java><tomcat><servlets>//Score = 0//Title = problem with running Servlet on Tomcat: InvocationTargetException//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2010-04-24T20:56:12.773//Tags = <java><spring><jsp><encoding>//Score = 1//Title = Special characters incongruence//AnswerCount = 2//CommentCount = 0//FavoriteCount = 1
+//CreationDate = 2008-12-18T02:48:10.877//Tags = <java><jdbc><nullpointerexception><resultset>//Score = 3//Title = Java NullPointerException when traversing a non-null recordset//AnswerCount = 6//CommentCount = 1
+//CreationDate = 2014-01-23T10:01:12.617//Tags = <java><hibernate><jpa>//Score = 0//Title = Cascade annotations//AnswerCount = 0//CommentCount = 3//FavoriteCount = 0
+//CreationDate = 2014-06-02T15:18:33.860//Tags = <java>//Score = 0//Title = static block inside static inner class//AnswerCount = 3//CommentCount = 2
+//CreationDate = 2011-01-14T19:04:13.513//Tags = <java><validation><date>//Score = 8//Title = JSR 303 - javax.validation - Validate a date//AnswerCount = 1//CommentCount = 8//FavoriteCount = 0
+//CreationDate = 2015-05-25T23:21:57.550//Tags = <java><mysql><sql><file>//Score = 0//Title = Java File type into SQL Insert clause//AnswerCount = 1//CommentCount = 5
+//CreationDate = 2014-03-28T21:30:22.690//Tags = <java><ssh><sshj>//Score = 10//Title = execute sequense of commands in sshj//AnswerCount = 3//CommentCount = 1//FavoriteCount = 3
+//CreationDate = 2019-08-16T01:14:30.783//Tags = <java><android><service><notifications>//Score = 1//Title = NotificationListenerService when app closed//AnswerCount = 0//CommentCount = 0
+//CreationDate = 2015-10-29T22:43:13.233//Tags = <java><arrays><string><input><string-split>//Score = -2//Title = How to break a String into a string array, and check if the string is one thing or another//AnswerCount = 1//CommentCount = 6
+//CreationDate = 2016-10-16T23:15:26.853//Tags = <java><android><geolocation><google-places-api><google-places>//Score = 1//Title = Google places getPlaceID returns non null array yet filter returns zero results//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-04-15T21:02:11.653//Tags = <java><swing>//Score = -5//Title = Why does while(true) loop just run once - Java//AnswerCount = 3//CommentCount = 12//FavoriteCount = 0
+//CreationDate = 2013-08-13T12:48:22.647//Tags = <java><multithreading><concurrency>//Score = 5//Title = notifyAll() throws IllegalMonitorStateException//AnswerCount = 4//CommentCount = 1
+//CreationDate = 2011-05-31T01:11:48.980//Tags = <java><ant>//Score = 3//Title = The meaning of **/* in the Ant script//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2011-05-31T01:11:48.980//Tags = <java><ant>//Score = 3//Title = The meaning of **/* in the Ant script//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2011-05-31T01:11:48.980//Tags = <java><ant>//Score = 3//Title = The meaning of **/* in the Ant script//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2011-04-19T20:36:20.687//Tags = <java><android><sqlite>//Score = 0//Title = SQLite Read error in onReceive//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2013-01-23T14:56:41.893//Tags = <java><swing><jtable><jcheckbox>//Score = 1//Title = JTable dynamic JCheckBox needs 1 click to uncheck, but 2 clicks to check//AnswerCount = 2//CommentCount = 9//FavoriteCount = 0
+//CreationDate = 2016-10-10T14:25:13.013//Tags = <java><android>//Score = 0//Title = Android Spinner set adapter method showing null pointer exception//AnswerCount = 0//CommentCount = 3
+//CreationDate = 2013-08-23T18:11:56.127//Tags = <java><hashmap><nested>//Score = 1//Title = Java hashmap will not allow get method to be called//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2018-06-27T09:56:01.853//Tags = <java><spring>//Score = -2//Title = How does spring dependency injection work?//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2018-07-16T18:17:06.710//Tags = <java><arrays><if-statement><text-files><java.util.scanner>//Score = 1//Title = Why does a string read from a txt file using java scanner not equal an identical string?//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2018-07-16T18:17:06.710//Tags = <java><arrays><if-statement><text-files><java.util.scanner>//Score = 1//Title = Why does a string read from a txt file using java scanner not equal an identical string?//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2019-05-04T13:26:26.780//Tags = <java><android><sockets><kotlin><ping>//Score = 3//Title = Failed to send an ICMP packet through socket on Android API 22 (Lollipop)//AnswerCount = 0//CommentCount = 1//FavoriteCount = 1
+//CreationDate = 2019-05-30T17:29:16.063//Tags = <java><r><memory><bartmachine>//Score = 0//Title = bartMachine builds up memory usage when executed repeatedly//AnswerCount = 0//CommentCount = 2
+//CreationDate = 2019-05-30T17:29:16.063//Tags = <java><r><memory><bartmachine>//Score = 0//Title = bartMachine builds up memory usage when executed repeatedly//AnswerCount = 0//CommentCount = 2
+//CreationDate = 2015-05-14T15:17:01.110//Tags = <java><mongodb><datetime>//Score = 1//Title = How to convert year and week of year obtained from MongoDB query into Joda datetime?//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2017-11-02T08:23:17.130//Tags = <java><list>//Score = 1//Title = Need help in list Java//AnswerCount = 4//CommentCount = 6
+//CreationDate = 2008-12-15T11:03:48.430//Tags = <java><wicket>//Score = 0//Title = Wicket: How to implement an IDataProvider/LoadableDetachableModel for indexed lists//AnswerCount = 1//CommentCount = 1//FavoriteCount = 1
+//CreationDate = 2008-12-15T11:03:48.430//Tags = <java><wicket>//Score = 0//Title = Wicket: How to implement an IDataProvider/LoadableDetachableModel for indexed lists//AnswerCount = 1//CommentCount = 1//FavoriteCount = 1
+//CreationDate = 2018-04-09T23:34:06.490//Tags = <java><mysql><garbage-collection><heap-memory>//Score = 0//Title = Bulk batch inserts to MySQL gives GC Overhead and/or Java Heap Space errors//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2018-04-10T13:51:06.690//Tags = <java><postgresql><spring-boot><jpa>//Score = 0//Title = Current timeStamp is not getting automatically saved into the table with jpa//AnswerCount = 2//CommentCount = 2
+//CreationDate = 2014-05-19T13:05:31.987//Tags = <java><spring><ldap><openldap>//Score = 2//Title = LDAP JAVA and userPassword//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2014-11-17T16:19:13.400//Tags = <java><android><audio>//Score = -1//Title = android play sound effect.//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2015-05-03T04:49:52.377//Tags = <java><javascript><jquery><jsp><servlets>//Score = -1//Title = How to pass a value from JQuery to servlet//AnswerCount = 1//CommentCount = 6
+//CreationDate = 2015-05-03T04:49:52.377//Tags = <java><javascript><jquery><jsp><servlets>//Score = -1//Title = How to pass a value from JQuery to servlet//AnswerCount = 1//CommentCount = 6
+//CreationDate = 2015-05-03T04:49:52.377//Tags = <java><javascript><jquery><jsp><servlets>//Score = -1//Title = How to pass a value from JQuery to servlet//AnswerCount = 1//CommentCount = 6
+//CreationDate = 2012-10-17T14:08:10.610//Tags = <java><elasticsearch><faceted-search>//Score = 0//Title = Elasticsearch prefixFilter for a facet//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2012-10-17T14:08:10.610//Tags = <java><elasticsearch><faceted-search>//Score = 0//Title = Elasticsearch prefixFilter for a facet//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2012-10-17T14:08:10.610//Tags = <java><elasticsearch><faceted-search>//Score = 0//Title = Elasticsearch prefixFilter for a facet//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2012-10-17T14:08:10.610//Tags = <java><elasticsearch><faceted-search>//Score = 0//Title = Elasticsearch prefixFilter for a facet//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2019-05-07T20:02:56.640//Tags = <java><apache-camel>//Score = 1//Title = Apache Camel in-memory dead letter queue//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2018-08-21T10:02:04.873//Tags = <java><c#><android><unity3d><gradle>//Score = 1//Title = I have a issue when trying to build Android version in Unity3d//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2018-09-17T05:36:52.857//Tags = <java><spring><postgresql><spring-boot><hikaricp>//Score = 1//Title = Java Spring Boot postgresql with HikariCP - get raw string output from statement query//AnswerCount = 1//CommentCount = 11
+//CreationDate = 2019-03-25T02:05:17.393//Tags = <java><javafx>//Score = 2//Title = How to use arrow buttons to traverse cells in edit mode in TableView//AnswerCount = 2//CommentCount = 16
+//CreationDate = 2016-12-14T13:42:41.600//Tags = <java><html><swing><jtextpane>//Score = 1//Title = JTextPane, text/html content: nested HTML element do not inherit font size?//AnswerCount = 1//CommentCount = 4
+//CreationDate = 2016-12-14T13:42:41.600//Tags = <java><html><swing><jtextpane>//Score = 1//Title = JTextPane, text/html content: nested HTML element do not inherit font size?//AnswerCount = 1//CommentCount = 4
+//CreationDate = 2017-02-11T09:33:33.480//Tags = <java><if-statement><boolean>//Score = -2//Title = Java boolean statement//AnswerCount = 3//CommentCount = 3
+//CreationDate = 2017-06-20T06:56:59.803//Tags = <java><maven><akka>//Score = 0//Title = java.lang.NoClassDefFoundError: com/typesafe/config/Config while running akka-quickstart-java in STS//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2019-05-28T03:04:06.527//Tags = <java>//Score = 0//Title = When is a variable declaration in another class actually ran?//AnswerCount = 2//CommentCount = 3
+//CreationDate = 2019-05-29T21:08:52.870//Tags = <java><sql><sqlite>//Score = 0//Title = java.sql.SQLException: no such column: after accepting sql query//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2019-05-29T21:08:52.870//Tags = <java><sql><sqlite>//Score = 0//Title = java.sql.SQLException: no such column: after accepting sql query//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2016-09-29T09:31:26.757//Tags = <java><android><android-volley><filereader><fileinputstream>//Score = 1//Title = how to upload file into server in android?//AnswerCount = 1//CommentCount = 4
+//CreationDate = 2018-10-06T09:38:37.567//Tags = <java><java.util.scanner><joptionpane>//Score = 2//Title = Scanner and JOptionPane not working properly together//AnswerCount = 2//CommentCount = 12
+//CreationDate = 2013-11-19T18:43:42.607//Tags = <java><android><json><nullpointerexception><gson>//Score = 0//Title = How to create java list from json using gson? Getting a NullPointerException//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2015-11-12T14:36:50.713//Tags = <java><xslt>//Score = 0//Title = How to short or group data according to data value in xslt//AnswerCount = 0//CommentCount = 2
+//CreationDate = 2016-04-08T07:20:24.450//Tags = <java><spring><neo4j><spring-data>//Score = 2//Title = Spring data neo4j no such method error//AnswerCount = 0//CommentCount = 4
+//CreationDate = 2017-07-31T12:01:34.323//Tags = <java><scala>//Score = 0//Title = Try expression of Unit does not conform to expected type//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2018-01-02T13:54:22.563//Tags = <java><swing><jtable><width>//Score = 0//Title = Cannot Get JTable Total Width//AnswerCount = 0//CommentCount = 3//FavoriteCount = 1
+//CreationDate = 2018-09-04T14:25:42.780//Tags = <java><wsdl><wsimport>//Score = 0//Title = wsimport generated java classes - 401 error//AnswerCount = 0//CommentCount = 2
+//CreationDate = 2019-05-20T11:47:41.680//Tags = <java><android><android-library><android-calendar><calendarview>//Score = 2//Title = How to add data to events in applandeo calenderView?//AnswerCount = 2//CommentCount = 2//FavoriteCount = 2
+//CreationDate = 2012-10-16T19:19:02.507//Tags = <java><recursion><boggle>//Score = 0//Title = My Boggle program won't find all the valid words - Java//AnswerCount = 1//CommentCount = 4
+//CreationDate = 2020-02-27T08:02:01.223//Tags = <java><elasticsearch><spring-data-elasticsearch>//Score = 2//Title = How to create complex query to Elasticsearch with OR logic using Spring Data Elasticsearch?//AnswerCount = 4//CommentCount = 0
+//CreationDate = 2016-10-02T18:40:23.227//Tags = <java><eclipse><jersey>//Score = 0//Title = Log the request body of JSON @ Jersey Rest WS//AnswerCount = 2//CommentCount = 2//FavoriteCount = 0
+//CreationDate = 2020-02-27T08:02:01.223//Tags = <java><elasticsearch><spring-data-elasticsearch>//Score = 2//Title = How to create complex query to Elasticsearch with OR logic using Spring Data Elasticsearch?//AnswerCount = 4//CommentCount = 0
+//CreationDate = 2016-10-02T18:40:23.227//Tags = <java><eclipse><jersey>//Score = 0//Title = Log the request body of JSON @ Jersey Rest WS//AnswerCount = 2//CommentCount = 2//FavoriteCount = 0
+//CreationDate = 2017-03-28T12:55:01.497//Tags = <java><sockets><tcp><inputstream>//Score = 0//Title = InputStream of socket not closing on peer loss//AnswerCount = 2//CommentCount = 8
+//CreationDate = 2016-02-19T15:11:10.043//Tags = <java><android>//Score = 0//Title = Connecting to database from Custom Cursor Adapter Class//AnswerCount = 1//CommentCount = 7
+//CreationDate = 2014-08-13T02:30:19.763//Tags = <java><linux><date><ubuntu><epoch>//Score = 3//Title = Java Converting date to epoch value produces false output//AnswerCount = 3//CommentCount = 1
+//CreationDate = 2014-08-13T02:30:19.763//Tags = <java><linux><date><ubuntu><epoch>//Score = 3//Title = Java Converting date to epoch value produces false output//AnswerCount = 3//CommentCount = 1
+//CreationDate = 2015-04-08T00:39:31.903//Tags = <java>//Score = 0//Title = Java Decorator Pattern on Strings Using Caesar Cipher//AnswerCount = 1//CommentCount = 4
+//CreationDate = 2016-02-25T23:59:06.073//Tags = <java><synchronization><threadpool>//Score = 0//Title = Synchronise a method with two instances of the same class//AnswerCount = 0//CommentCount = 13
+//CreationDate = 2013-01-29T21:05:22.687//Tags = <java>//Score = -1//Title = Multiple Array Assignment Depending on Variable//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2013-01-18T16:51:41.613//Tags = <java><maven><maven-plugin>//Score = 23//Title = Why can Maven not find my custom Mojo?//AnswerCount = 2//CommentCount = 3//FavoriteCount = 4
+//CreationDate = 2018-06-11T23:31:39.843//Tags = <java><oracle><jdbc><wallet>//Score = 0//Title = Java JDBC and Oracle Wallet Connection//AnswerCount = 2//CommentCount = 1//FavoriteCount = 0
+//CreationDate = 2015-07-25T01:40:28.457//Tags = <java><audio><playback><clip>//Score = 0//Title = In Java playing back audio using a clip isn't working with no error messages//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2016-11-05T12:23:53.963//Tags = <java>//Score = -3//Title = How to check for every second and fifth position in a String?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-10-21T22:57:11.060//Tags = <java><bash><command-line-arguments><javac>//Score = -2//Title = Command line parameters in Java//AnswerCount = 2//CommentCount = 6
+//CreationDate = 2015-04-06T17:50:54.683//Tags = <java><java.util.scanner><void>//Score = 0//Title = Error: 'void' type not allowed here, within while loop (Java)//AnswerCount = 1//CommentCount = 13
+//CreationDate = 2013-06-21T12:21:30.020//Tags = <java><object><hashcode><uniqueidentifier>//Score = 0//Title = object identityhashcode in java//AnswerCount = 1//CommentCount = 2//FavoriteCount = 1
+//CreationDate = 2013-06-21T12:21:30.020//Tags = <java><object><hashcode><uniqueidentifier>//Score = 0//Title = object identityhashcode in java//AnswerCount = 1//CommentCount = 2//FavoriteCount = 1
+//CreationDate = 2012-09-20T13:00:14.110//Tags = <java><algorithm><tree><refactoring><binary-tree>//Score = 0//Title = Refactoring Code Finding if a Binary Tree is a BST//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2010-03-10T14:15:06.307//Tags = <java><c++><winsock>//Score = 1//Title = Winsock only sending data at program close//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-06-16T14:09:57.580//Tags = <java><code-coverage><jacoco>//Score = 2//Title = How to check code coverage with JaCoCo agent?//AnswerCount = 1//CommentCount = 2//FavoriteCount = 1
+//CreationDate = 2016-09-27T15:03:09.673//Tags = <java><jboss><ejb>//Score = 0//Title = EJB: embedded ejb helloworld//AnswerCount = 0//CommentCount = 4
+//CreationDate = 2013-06-21T12:21:30.020//Tags = <java><object><hashcode><uniqueidentifier>//Score = 0//Title = object identityhashcode in java//AnswerCount = 1//CommentCount = 2//FavoriteCount = 1
+//CreationDate = 2013-06-21T12:21:30.020//Tags = <java><object><hashcode><uniqueidentifier>//Score = 0//Title = object identityhashcode in java//AnswerCount = 1//CommentCount = 2//FavoriteCount = 1
+//CreationDate = 2019-01-07T09:42:30.460//Tags = <java><spring-boot><hadoop><hive><hadoop2>//Score = 1//Title = how to connect from local application to distant hive?//AnswerCount = 0//CommentCount = 5
+//CreationDate = 2013-09-24T17:31:54.097//Tags = <java><xml><xslt>//Score = 0//Title = Incorrect behaviour of xsl:for-each in Java//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2012-07-10T14:09:47.123//Tags = <java><eclipse><assert><assertions>//Score = 64//Title = How to enable the Java keyword assert in Eclipse program-wise?//AnswerCount = 6//CommentCount = 1//FavoriteCount = 8
+//CreationDate = 2016-08-18T20:53:35.240//Tags = <java><maven>//Score = 5//Title = How to get a list of maven dependencies and the repositories they were fetched from//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2013-10-14T21:16:57.570//Tags = <java><maven><jenkins>//Score = 1//Title = Jenkins build fails without error message//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2012-07-16T13:43:58.910//Tags = <java><mysql><jdbc><phpmyadmin>//Score = 0//Title = JBDC and Phpmyadmin / MySQL not connecting//AnswerCount = 2//CommentCount = 2
+//CreationDate = 2018-06-30T17:42:49.267//Tags = <java><timeuuid>//Score = 3//Title = how do i get the date/time back from a UUID type 1//AnswerCount = 3//CommentCount = 6
+//CreationDate = 2016-03-18T06:47:18.380//Tags = <java><angularjs><web-services><rest>//Score = 0//Title = Getting wrong timestamp in Java REST web services from AngularJS//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2019-11-19T11:05:45.947//Tags = <java><sockets>//Score = 0//Title = send/receive messages using one socket//AnswerCount = 0//CommentCount = 3
+//CreationDate = 2017-09-06T08:51:47.687//Tags = <java><maven><dependency-management><configuration-management>//Score = 7//Title = verify maven managed dependencies//AnswerCount = 1//CommentCount = 4
+//CreationDate = 2019-11-19T11:05:45.947//Tags = <java><sockets>//Score = 0//Title = send/receive messages using one socket//AnswerCount = 0//CommentCount = 3
+//CreationDate = 2015-09-02T17:37:57.623//Tags = <java><batch-file><cmd><execute>//Score = 0//Title = Cannot run program "...": CreateProcess error=2//AnswerCount = 2//CommentCount = 5
+//CreationDate = 2014-12-05T11:01:46.150//Tags = <java><hibernate><jpa><orm><persistence>//Score = 0//Title = Hibernate deleteEntity issues//AnswerCount = 2//CommentCount = 4
+//CreationDate = 2018-06-14T13:59:14.833//Tags = <java><text>//Score = 0//Title = Read and save multiple lines from text document Java//AnswerCount = 2//CommentCount = 3
+//CreationDate = 2018-08-20T14:23:22.633//Tags = <java><email>//Score = 0//Title = How can I write a more complex body of a mail with Multipart in Java?//AnswerCount = 0//CommentCount = 5
+//CreationDate = 2015-10-15T06:50:44.700//Tags = <java><apache><netbeans>//Score = 0//Title = Which .jar file i need to add to remove errors from thease line in netbeans//AnswerCount = 1//CommentCount = 6
+//CreationDate = 2018-10-20T16:41:05.303//Tags = <java><android><image-processing><colors><bitmap>//Score = 0//Title = How to detect all pixels of specific color (and similar ones) in a bitmap?//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2020-04-02T18:43:22.793//Tags = <java><java-native-interface>//Score = 0//Title = In JNI, can you pass a C integer parameter to a Java primitive int?//AnswerCount = 1//CommentCount = 7
+//CreationDate = 2015-03-29T13:36:47.240//Tags = <java><html><servlets><jdbc>//Score = 0//Title = I want to display the results from servlet in the same HTML page.Is that possible?//AnswerCount = 2//CommentCount = 1
+//CreationDate = 2015-03-29T13:36:47.240//Tags = <java><html><servlets><jdbc>//Score = 0//Title = I want to display the results from servlet in the same HTML page.Is that possible?//AnswerCount = 2//CommentCount = 1
+//CreationDate = 2020-01-12T08:09:12.520//Tags = <java><eclipse><date><time>//Score = 2//Title = java.text.ParseException: Unparseable date when typing the date in eclipse console//AnswerCount = 2//CommentCount = 4
+//CreationDate = 2018-11-26T10:48:14.637//Tags = <java><rest><unit-testing><resteasy>//Score = 1//Title = Unit testing for REST with Client and invokation//AnswerCount = 0//CommentCount = 2
+//CreationDate = 2012-07-05T08:42:31.123//Tags = <java><hibernate><spring-mvc>//Score = 0//Title = Spring MVC + Hibernate: No Hibernate Session bound to thread, and configuration does not allow creation of non-transactional one here//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-10-15T06:50:44.700//Tags = <java><apache><netbeans>//Score = 0//Title = Which .jar file i need to add to remove errors from thease line in netbeans//AnswerCount = 1//CommentCount = 6
+//CreationDate = 2016-01-14T16:05:36.143//Tags = <java><servlets><encoding>//Score = 1//Title = How to log CharConversionException from HttpServletRequest getParameter//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2012-11-12T11:05:51.247//Tags = <java><jpcap>//Score = 1//Title = how to catch packet using jpcap?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2010-05-09T00:14:26.457//Tags = <java><applet>//Score = 1//Title = Java Applet : Nested Loops color change//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2018-11-05T09:00:27.473//Tags = <java><log4j2><slf4j><java-9><java-module>//Score = 3//Title = Does JPMS support services from META-INF/services for automatic modules?//AnswerCount = 1//CommentCount = 5//FavoriteCount = 1
+//CreationDate = 2016-02-03T16:26:37.910//Tags = <java><eclipse><eclipse-rcp>//Score = 2//Title = Eclipse RCP: Open Split Screen Editor//AnswerCount = 1//CommentCount = 5
+//CreationDate = 2016-02-15T20:26:50.220//Tags = <java><linux><phantomjs><browsermob-proxy>//Score = 2//Title = phantomjs stuck on linux//AnswerCount = 0//CommentCount = 0
+//CreationDate = 2017-06-17T18:42:32.990//Tags = <java><java-8><java-stream>//Score = 1//Title = Restrict CPU usage by java8 parallel stream/High CPU usage by Java 8 parallel stream//AnswerCount = 2//CommentCount = 7//FavoriteCount = 1
+//CreationDate = 2019-05-31T03:16:32.627//Tags = <java><android><bitmap><imageview><uri>//Score = 0//Title = How to correctly set the Uri of an image from a folder selected by the user to show in an ImageView?//AnswerCount = 2//CommentCount = 2
+//CreationDate = 2018-08-14T07:12:04.223//Tags = <java><vaadin><vaadin10><vaadin-flow>//Score = 1//Title = How to prevent Vaadin 10 to loose connection when processing for a long time?//AnswerCount = 2//CommentCount = 1
+//CreationDate = 2014-01-17T14:10:40.253//Tags = <java><xml><eclipse><filereader>//Score = 0//Title = xml file reader shows no errors but says there is an error//AnswerCount = 1//CommentCount = 5
+//CreationDate = 2015-03-23T19:58:32.590//Tags = <java><eclipse><class><getresource>//Score = 5//Title = Why does class.getResource() keep returning null although there is a resource at the specified path?//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2018-02-05T19:42:32.280//Tags = <java><eclipse><eclipse-rcptt>//Score = 0//Title = Clear Workspace before starting new test case//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2014-12-27T00:07:48.873//Tags = <java><spring><hibernate><jpa>//Score = 0//Title = Receiving a org.hibernate.MappingException: Duplicate property mapping//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2014-12-27T00:07:48.873//Tags = <java><spring><hibernate><jpa>//Score = 0//Title = Receiving a org.hibernate.MappingException: Duplicate property mapping//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2015-05-01T19:17:34.293//Tags = <java><java-7><java-collections-api>//Score = 7//Title = Find all possible combination of enums//AnswerCount = 3//CommentCount = 13//FavoriteCount = 1
+//CreationDate = 2015-05-01T19:17:34.293//Tags = <java><java-7><java-collections-api>//Score = 7//Title = Find all possible combination of enums//AnswerCount = 3//CommentCount = 13//FavoriteCount = 1
+//CreationDate = 2015-08-22T23:02:17.493//Tags = <java><android><parse-platform><push-notification>//Score = 0//Title = logcat report of push not being enabled correclty//AnswerCount = 2//CommentCount = 7
+//CreationDate = 2014-01-31T23:58:56.477//Tags = <java><navigation><cmd><stack>//Score = 0//Title = Java creating menu and submenu cmd line program//AnswerCount = 0//CommentCount = 2
+//CreationDate = 2014-03-19T09:03:27.227//Tags = <java><applet><digital-signature><pkcs#11><electronic-signature>//Score = 0//Title = Applet pcks11 security error//AnswerCount = 1//CommentCount = 1//FavoriteCount = 0
+//CreationDate = 2011-10-25T01:47:43.120//Tags = <c#><java><sockets><unicode-string>//Score = 1//Title = Send unicode String from C# to Java//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2014-10-07T12:48:49.977//Tags = <java><colors><background><sleep>//Score = 1//Title = How can I change the background color of my textbox for just a second in Java?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-01-16T11:47:56.370//Tags = <java>//Score = -2//Title = Query in Java- Initialization error//AnswerCount = 3//CommentCount = 2
+//CreationDate = 2018-11-02T12:49:25.797//Tags = <java><jakarta-ee><glassfish><eclipselink>//Score = 0//Title = Running two parallel transactions//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-07-24T11:22:30.220//Tags = <java><maven><jar><ceylon>//Score = 1//Title = Working with ceylon import-jar//AnswerCount = 2//CommentCount = 5
+//CreationDate = 2016-07-10T20:31:16.597//Tags = <java><arrays>//Score = 0//Title = Cannot invoke method on the array type int[]//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2016-04-05T08:29:05.507//Tags = <java><spring-boot>//Score = 1//Title = How to expose beans as attributes through application.properties//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2016-04-05T08:29:05.507//Tags = <java><spring-boot>//Score = 1//Title = How to expose beans as attributes through application.properties//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2016-04-05T08:29:05.507//Tags = <java><spring-boot>//Score = 1//Title = How to expose beans as attributes through application.properties//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2016-04-05T08:29:05.507//Tags = <java><spring-boot>//Score = 1//Title = How to expose beans as attributes through application.properties//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2016-04-05T08:29:05.507//Tags = <java><spring-boot>//Score = 1//Title = How to expose beans as attributes through application.properties//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2016-04-05T08:29:05.507//Tags = <java><spring-boot>//Score = 1//Title = How to expose beans as attributes through application.properties//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2016-04-05T08:29:05.507//Tags = <java><spring-boot>//Score = 1//Title = How to expose beans as attributes through application.properties//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2016-04-05T08:29:05.507//Tags = <java><spring-boot>//Score = 1//Title = How to expose beans as attributes through application.properties//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2015-08-07T20:45:33.197//Tags = <java><android><google-maps>//Score = 0//Title = Polygon on Map doesn't show semi transparent color//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-08-07T20:45:33.197//Tags = <java><android><google-maps>//Score = 0//Title = Polygon on Map doesn't show semi transparent color//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-08-14T12:20:59.947//Tags = <java><xml-parsing><stream><jaxb><dto>//Score = 1//Title = Reading different xml elements from socket continously and mapping it to DTO classes generated from XSD - Java//AnswerCount = 0//CommentCount = 2//FavoriteCount = 0
+//CreationDate = 2016-09-22T02:29:19.000//Tags = <java><sed><nashorn>//Score = 0//Title = NASHORN $EXEC issue with sed//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2017-04-30T19:53:50.057//Tags = <java><loops><for-loop><iteration>//Score = -1//Title = for loop statement error//AnswerCount = 1//CommentCount = 4
+//CreationDate = 2017-04-30T19:53:50.057//Tags = <java><loops><for-loop><iteration>//Score = -1//Title = for loop statement error//AnswerCount = 1//CommentCount = 4
+//CreationDate = 2017-04-30T19:53:50.057//Tags = <java><loops><for-loop><iteration>//Score = -1//Title = for loop statement error//AnswerCount = 1//CommentCount = 4
+//CreationDate = 2020-04-09T09:35:56.400//Tags = <java>//Score = 0//Title = "Error: Could not find or load main class Example" when I add "package"//AnswerCount = 1//CommentCount = 6
+//CreationDate = 2018-12-11T07:34:18.887//Tags = <java><android><android-contentprovider>//Score = 0//Title = How to set selection, selection args to filter results//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2018-12-24T06:28:00.957//Tags = <java><android><android-fragments>//Score = 0//Title = Why i cant pass bundle from fragment to activity//AnswerCount = 1//CommentCount = 6
+//CreationDate = 2019-11-13T02:47:06.653//Tags = <java><python><unicode><pdfbox>//Score = 5//Title = How to solve no unicode mapping error from PDFBox?//AnswerCount = 0//CommentCount = 7//FavoriteCount = 1
+//CreationDate = 2011-09-06T14:55:15.677//Tags = <java><spring><jdbc><spring-roo><h2>//Score = 4//Title = Spring Roo: JDBC driver not available for 'org.h2.Driver'//AnswerCount = 1//CommentCount = 0//FavoriteCount = 1
+//CreationDate = 2014-08-14T12:01:45.710//Tags = <java><heroku><dropwizard>//Score = 3//Title = Running Dropwizard app on Heroku: R10 failed to bind to $PORT//AnswerCount = 2//CommentCount = 2//FavoriteCount = 1
+//CreationDate = 2014-08-14T12:01:45.710//Tags = <java><heroku><dropwizard>//Score = 3//Title = Running Dropwizard app on Heroku: R10 failed to bind to $PORT//AnswerCount = 2//CommentCount = 2//FavoriteCount = 1
+//CreationDate = 2011-04-26T21:24:50.170//Tags = <java><logic><while-loop>//Score = 1//Title = How could the following Java library code ever exit the while(true) loop?//AnswerCount = 4//CommentCount = 0
+//CreationDate = 2016-10-07T12:24:14.143//Tags = <java><objective-c>//Score = 0//Title = Java equivalent decoding for ObjectiveC//AnswerCount = 1//CommentCount = 4
+//CreationDate = 2016-04-22T08:48:41.093//Tags = <java><android>//Score = 1//Title = Link two layouts in android//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2017-09-29T06:13:17.457//Tags = <java><mysql>//Score = 0//Title = convert String to int or default integer in MySQL//AnswerCount = 2//CommentCount = 3
+//CreationDate = 2017-09-29T06:13:17.457//Tags = <java><mysql>//Score = 0//Title = convert String to int or default integer in MySQL//AnswerCount = 2//CommentCount = 3
+//CreationDate = 2012-12-06T15:50:24.483//Tags = <java><interface><callback><lazy-loading><abstract-class>//Score = 1//Title = Dilemma with lazy initialization and callbacks//AnswerCount = 0//CommentCount = 0//FavoriteCount = 0
+//CreationDate = 2016-02-15T01:55:40.850//Tags = <java><android><json>//Score = 1//Title = Parse nested value from JSON and add into HashMap//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-09-06T07:44:53.030//Tags = <java><netty><dependency-management><nosuchmethoderror>//Score = 1//Title = Dependency convergence error due to three open source projects Apache Drill, Apache Hadoop and Elastic search uses different version of io.netty//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-02-15T01:55:40.850//Tags = <java><android><json>//Score = 1//Title = Parse nested value from JSON and add into HashMap//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-09-06T07:44:53.030//Tags = <java><netty><dependency-management><nosuchmethoderror>//Score = 1//Title = Dependency convergence error due to three open source projects Apache Drill, Apache Hadoop and Elastic search uses different version of io.netty//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-11-02T05:06:46.560//Tags = <java><android><multithreading><memory><int>//Score = 0//Title = Setting int values causing performance issues//AnswerCount = 2//CommentCount = 4
+//CreationDate = 2016-09-06T07:44:53.030//Tags = <java><netty><dependency-management><nosuchmethoderror>//Score = 1//Title = Dependency convergence error due to three open source projects Apache Drill, Apache Hadoop and Elastic search uses different version of io.netty//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-02-15T01:55:40.850//Tags = <java><android><json>//Score = 1//Title = Parse nested value from JSON and add into HashMap//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-09-06T07:44:53.030//Tags = <java><netty><dependency-management><nosuchmethoderror>//Score = 1//Title = Dependency convergence error due to three open source projects Apache Drill, Apache Hadoop and Elastic search uses different version of io.netty//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-02-15T01:55:40.850//Tags = <java><android><json>//Score = 1//Title = Parse nested value from JSON and add into HashMap//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-09-06T07:44:53.030//Tags = <java><netty><dependency-management><nosuchmethoderror>//Score = 1//Title = Dependency convergence error due to three open source projects Apache Drill, Apache Hadoop and Elastic search uses different version of io.netty//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2018-06-29T14:12:50.797//Tags = <java><html><image><swing><jeditorpane>//Score = 1//Title = JEditorPane Content Type for HTML Embedded Base64 Images//AnswerCount = 1//CommentCount = 5//FavoriteCount = 1
+//CreationDate = 2020-04-08T16:08:17.973//Tags = <java><filter><sparql><owl><protege>//Score = 0//Title = How to write filter regex snap sparql in java code using owl api//AnswerCount = 0//CommentCount = 7
+//CreationDate = 2019-05-14T23:06:44.857//Tags = <java><javafx>//Score = 0//Title = JavaFX text does not change when calling setText()//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2019-05-14T23:06:44.857//Tags = <java><javafx>//Score = 0//Title = JavaFX text does not change when calling setText()//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2019-05-14T23:06:44.857//Tags = <java><javafx>//Score = 0//Title = JavaFX text does not change when calling setText()//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2019-12-27T04:02:34.597//Tags = <java><groovy>//Score = 0//Title = Can we use "Optional" to do null check in Groovy//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2019-12-27T04:02:34.597//Tags = <java><groovy>//Score = 0//Title = Can we use "Optional" to do null check in Groovy//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2019-12-27T04:02:34.597//Tags = <java><groovy>//Score = 0//Title = Can we use "Optional" to do null check in Groovy//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2016-04-13T10:23:18.573//Tags = <java>//Score = 1//Title = Java dateFormat Unparseable date exception//AnswerCount = 3//CommentCount = 0
+//CreationDate = 2017-05-07T13:56:06.310//Tags = <java><arrays>//Score = -4//Title = How to check the groups a person joined?//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2015-11-29T20:31:02.933//Tags = <java><dynamic-programming>//Score = 2//Title = Longest Common Substring algorithm//AnswerCount = 1//CommentCount = 0//FavoriteCount = 1
+//CreationDate = 2015-11-29T20:31:02.933//Tags = <java><dynamic-programming>//Score = 2//Title = Longest Common Substring algorithm//AnswerCount = 1//CommentCount = 0//FavoriteCount = 1
+//CreationDate = 2015-11-29T20:31:02.933//Tags = <java><dynamic-programming>//Score = 2//Title = Longest Common Substring algorithm//AnswerCount = 1//CommentCount = 0//FavoriteCount = 1
+//CreationDate = 2015-04-27T11:26:57.027//Tags = <java><windows><batch-file>//Score = 4//Title = Adding Restricted Sites To Windows Internet Options//AnswerCount = 2//CommentCount = 2//FavoriteCount = 1
+//CreationDate = 2015-04-27T11:26:57.027//Tags = <java><windows><batch-file>//Score = 4//Title = Adding Restricted Sites To Windows Internet Options//AnswerCount = 2//CommentCount = 2//FavoriteCount = 1
+//CreationDate = 2015-07-10T01:12:40.703//Tags = <java><symbolic-math><algebra><calculus>//Score = 7//Title = Calculus Limits with Java//AnswerCount = 2//CommentCount = 1//FavoriteCount = 2
+//CreationDate = 2020-03-04T07:09:46.990//Tags = <java><android>//Score = 0//Title = Getting null pointer exception in Google Map Integration//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2011-09-01T10:50:07.887//Tags = <java><pdf><edit><pdfbox>//Score = 2//Title = Editing PDF from Java Using PDFBox//AnswerCount = 2//CommentCount = 3//FavoriteCount = 0
+//CreationDate = 2018-05-11T03:49:01.760//Tags = <java><spring-boot><hashmap>//Score = 0//Title = Java - Get variable from Spring Boot Application//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2019-01-03T16:22:52.213//Tags = <java><selenium-chromedriver>//Score = 2//Title = Is there a way to set implicit timeouts beyond the driver.manage().timeouts() method?//AnswerCount = 1//CommentCount = 1//FavoriteCount = 1
+//CreationDate = 2017-02-15T21:19:31.477//Tags = <java><install4j><onejar>//Score = 2//Title = How do I configure install4j to run a java executable jar file which contains other jar files?//AnswerCount = 3//CommentCount = 0
+//CreationDate = 2019-08-10T10:53:07.610//Tags = <java><concurrency><java-stream><fork-join>//Score = 0//Title = Streams performance difference//AnswerCount = 0//CommentCount = 8
+//CreationDate = 2015-07-28T01:58:32.007//Tags = <java><single-sign-on><jboss7.x>//Score = 0//Title = Issue with Single Sign On With Jboss 7//AnswerCount = 1//CommentCount = 4
+//CreationDate = 2015-07-28T01:58:32.007//Tags = <java><single-sign-on><jboss7.x>//Score = 0//Title = Issue with Single Sign On With Jboss 7//AnswerCount = 1//CommentCount = 4
+//CreationDate = 2017-03-20T10:36:35.440//Tags = <java><php><android>//Score = 0//Title = Android Java String to Blob//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2017-03-20T10:36:35.440//Tags = <java><php><android>//Score = 0//Title = Android Java String to Blob//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-11-01T14:30:51.710//Tags = <java><nullpointerexception><linked-list><queue><nodes>//Score = 0//Title = Trying to switch a value from on Queue to another. Getting NullPointerException?//AnswerCount = 0//CommentCount = 5
+//CreationDate = 2018-11-23T10:31:42.280//Tags = <java><eclipse><gwt>//Score = 1//Title = How to pass value of class in other class?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-01-20T11:28:25.963//Tags = <java><pdf><javafx><javafx-2><icepdf>//Score = 0//Title = How to remove thin back frame around pdf page at ICEpdf?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2019-06-07T21:47:35.867//Tags = <java><android><geolocation><gps><broadcastreceiver>//Score = 0//Title = how to get latitude and longitude value in BroadcastReceiver service?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2019-08-08T16:04:33.923//Tags = <java><selenium-webdriver><intellij-idea><cucumber>//Score = 1//Title = Undefined Step Reference - Intellij Java//AnswerCount = 2//CommentCount = 8
+//CreationDate = 2019-08-08T16:04:33.923//Tags = <java><selenium-webdriver><intellij-idea><cucumber>//Score = 1//Title = Undefined Step Reference - Intellij Java//AnswerCount = 2//CommentCount = 8
+//CreationDate = 2018-11-23T10:31:42.280//Tags = <java><eclipse><gwt>//Score = 1//Title = How to pass value of class in other class?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2020-05-25T14:39:28.917//Tags = <java>//Score = 0//Title = how to scan a grid and sum the number of filled spaces in the grid row by row and add them up individually//AnswerCount = 0//CommentCount = 5
+//CreationDate = 2019-10-16T15:52:26.663//Tags = <java><processing><pixel>//Score = 5//Title = Processing - Rough pixel sorting algorithm stops after a part of the image//AnswerCount = 1//CommentCount = 4
+//CreationDate = 2015-06-12T06:05:21.953//Tags = <java><colors><rgb><pixels><javax.imageio>//Score = 0//Title = assign RGB values in java with nested for function//AnswerCount = 2//CommentCount = 1
+//CreationDate = 2016-06-29T22:51:15.437//Tags = <java><angularjs><spring><spring-mvc><tomcat>//Score = 1//Title = How to build Spring Web MVC on top of Spring Data Rest//AnswerCount = 0//CommentCount = 1
+//CreationDate = 2015-08-26T09:39:39.963//Tags = <java><spring><hibernate><security><spring-mvc>//Score = 0//Title = Spring security with maven and hibernate Class not found//AnswerCount = 2//CommentCount = 1
+//CreationDate = 2016-11-21T10:39:31.877//Tags = <java><decimalformat>//Score = 1//Title = DecimalFormat Not Giving Result as per Half_Even Rounding//AnswerCount = 2//CommentCount = 1
+//CreationDate = 2017-06-13T02:16:39.347//Tags = <java><struts2>//Score = 0//Title = struts2 revamp project --> compile error//AnswerCount = 0//CommentCount = 3
+//CreationDate = 2019-11-28T13:39:03.927//Tags = <java><xml><spring><javabeans>//Score = 0//Title = Spring xml primary bean//AnswerCount = 0//CommentCount = 3
+//CreationDate = 2020-02-27T21:52:11.813//Tags = <java><jmeter>//Score = 1//Title = JMeter Counter not Incrementing when checked using vars.get()//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-05-06T09:25:25.160//Tags = <java><android><spring><rest>//Score = 0//Title = I/O Error On Post Request Spring Boot Rest Service In Android//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-04-11T15:59:46.430//Tags = <java><ftp><connection><localhost>//Score = 0//Title = Connect to Localhost with Java FTP//AnswerCount = 2//CommentCount = 7
+//CreationDate = 2014-02-12T04:22:11.657//Tags = <java><file><path><nio>//Score = 2//Title = Java nio Path subpath returns incomplete Path//AnswerCount = 0//CommentCount = 5//FavoriteCount = 0
+//CreationDate = 2014-02-12T04:22:11.657//Tags = <java><file><path><nio>//Score = 2//Title = Java nio Path subpath returns incomplete Path//AnswerCount = 0//CommentCount = 5//FavoriteCount = 0
+//CreationDate = 2014-11-05T21:43:03.967//Tags = <java><google-app-engine><maven>//Score = 1//Title = Error "The first module you upload to a new application must be the 'default' module"//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2014-11-05T21:43:03.967//Tags = <java><google-app-engine><maven>//Score = 1//Title = Error "The first module you upload to a new application must be the 'default' module"//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2016-06-16T21:17:05.277//Tags = <java><file-transfer>//Score = 1//Title = Transfer Audio-File from Client to Http Server via URLConnection//AnswerCount = 1//CommentCount = 9
+//CreationDate = 2016-06-16T21:17:05.277//Tags = <java><file-transfer>//Score = 1//Title = Transfer Audio-File from Client to Http Server via URLConnection//AnswerCount = 1//CommentCount = 9
+//CreationDate = 2017-10-13T06:53:52.637//Tags = <java><html><eclipse><image><path>//Score = -1//Title = Accessing image files in Eclipse?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2010-04-24T10:05:31.903//Tags = <java><netbeans><image><jar>//Score = 2//Title = create jar file with images and database//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2013-07-22T04:35:38.377//Tags = <java><javascript><jsp>//Score = 0//Title = Java script works only first time on JSP page//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2013-08-15T16:47:23.760//Tags = <java><spring><jsp>//Score = 0//Title = How to access values of AbstractMap.SimpleEntry in JSP?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2013-07-03T04:10:25.560//Tags = <java><web><jersey><guice><grizzly>//Score = 0//Title = Injecting constructor in jersey//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2014-03-09T16:45:51.577//Tags = <java><object><stack-overflow>//Score = 0//Title = Java stackOverFlow error Objects aren't coded the right way//AnswerCount = 2//CommentCount = 2
+//CreationDate = 2013-02-25T00:05:14.693//Tags = <java><xml><apache-commons-digester>//Score = 0//Title = XML parsing:Retrieve multiple rows in xml using digester//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2017-10-23T18:33:17.163//Tags = <java>//Score = -1//Title = Why the program is not showing any output?//AnswerCount = 1//CommentCount = 19
+//CreationDate = 2019-06-25T00:13:09.033//Tags = <java><android><kotlin><navigation>//Score = 0//Title = Side and Bottom Navigation Issue When Porting Kotlin MainActivity to Java//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-03-31T01:07:48.593//Tags = <java><for-loop>//Score = 0//Title = For-loop and output//AnswerCount = 2//CommentCount = 1
+//CreationDate = 2015-03-31T01:07:48.593//Tags = <java><for-loop>//Score = 0//Title = For-loop and output//AnswerCount = 2//CommentCount = 1
+//CreationDate = 2015-03-31T01:07:48.593//Tags = <java><for-loop>//Score = 0//Title = For-loop and output//AnswerCount = 2//CommentCount = 1
+//CreationDate = 2016-12-13T15:34:51.780//Tags = <java><android><bitmap>//Score = 0//Title = How do I refer to any object in MainActivity from other class? and how do I avoid NullPointerException for referencing to any object//AnswerCount = 1//CommentCount = 4
+//CreationDate = 2015-12-14T11:42:35.477//Tags = <java><android><performance><oop>//Score = 1//Title = How costly is using Factory Pattern in Java//AnswerCount = 0//CommentCount = 1//FavoriteCount = 0
+//CreationDate = 2015-05-13T14:54:27.313//Tags = <java><multithreading>//Score = 3//Title = Join multiple threads with timeout//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2015-12-14T11:42:35.477//Tags = <java><android><performance><oop>//Score = 1//Title = How costly is using Factory Pattern in Java//AnswerCount = 0//CommentCount = 1//FavoriteCount = 0
+//CreationDate = 2015-05-13T14:54:27.313//Tags = <java><multithreading>//Score = 3//Title = Join multiple threads with timeout//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2015-08-29T07:21:54.717//Tags = <java><data-structures><priority-queue>//Score = 0//Title = Java Priority Queue Rearranging Itself After Poll Method is Called//AnswerCount = 1//CommentCount = 5
+//CreationDate = 2015-08-29T07:21:54.717//Tags = <java><data-structures><priority-queue>//Score = 0//Title = Java Priority Queue Rearranging Itself After Poll Method is Called//AnswerCount = 1//CommentCount = 5
+//CreationDate = 2015-09-04T12:26:08.807//Tags = <java><spring-mvc>//Score = 0//Title = Exception is thrown, Page is called, but object is null//AnswerCount = 1//CommentCount = 4
+//CreationDate = 2018-04-28T21:03:53.313//Tags = <java><sockets><ports>//Score = 0//Title = Java PortScanner, check if port is filtered//AnswerCount = 0//CommentCount = 2
+//CreationDate = 2014-04-02T05:44:09.490//Tags = <java><arrays><object>//Score = 0//Title = How read a object in Java//AnswerCount = 5//CommentCount = 6
+//CreationDate = 2016-12-25T10:53:23.830//Tags = <java><xml><soap>//Score = 0//Title = Parsing escaped xml tags in java//AnswerCount = 0//CommentCount = 2
+//CreationDate = 2013-11-20T15:43:38.807//Tags = <java><asynchttpclient><ning>//Score = 1//Title = it always show Remotely Closed when I use ning's async-http-client jar//AnswerCount = 0//CommentCount = 0
+//CreationDate = 2013-11-20T15:43:38.807//Tags = <java><asynchttpclient><ning>//Score = 1//Title = it always show Remotely Closed when I use ning's async-http-client jar//AnswerCount = 0//CommentCount = 0
+//CreationDate = 2013-11-20T15:43:38.807//Tags = <java><asynchttpclient><ning>//Score = 1//Title = it always show Remotely Closed when I use ning's async-http-client jar//AnswerCount = 0//CommentCount = 0
+//CreationDate = 2017-04-17T15:20:04.050//Tags = <java><mongodb><morphia>//Score = -1//Title = Morphia Decalration of query on object does not type-cast properly//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2017-04-17T15:20:04.050//Tags = <java><mongodb><morphia>//Score = -1//Title = Morphia Decalration of query on object does not type-cast properly//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2017-04-17T15:20:04.050//Tags = <java><mongodb><morphia>//Score = -1//Title = Morphia Decalration of query on object does not type-cast properly//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-06-04T06:51:09.763//Tags = <java><gradle>//Score = 30//Title = gradle - copy file after its generation//AnswerCount = 4//CommentCount = 0//FavoriteCount = 6
+//CreationDate = 2015-06-04T06:51:09.763//Tags = <java><gradle>//Score = 30//Title = gradle - copy file after its generation//AnswerCount = 4//CommentCount = 0//FavoriteCount = 6
+//CreationDate = 2015-06-04T06:51:09.763//Tags = <java><gradle>//Score = 30//Title = gradle - copy file after its generation//AnswerCount = 4//CommentCount = 0//FavoriteCount = 6
+//CreationDate = 2016-11-22T19:57:40.347//Tags = <java><string><file>//Score = 0//Title = how to save a file exactly as it is from a String java//AnswerCount = 2//CommentCount = 1
+//CreationDate = 2017-06-07T12:51:26.950//Tags = <java><spring><unit-testing><junit>//Score = 0//Title = JUnit test - asset or verify (or both) on a mock object?//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2014-07-16T14:26:35.727//Tags = <java><core>//Score = -3//Title = How tosolve StringIndexOutOfBounds Exception?//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2017-09-16T09:36:05.420//Tags = <java><inner-classes>//Score = 0//Title = How to properly to create constructor in inner class?//AnswerCount = 0//CommentCount = 9
+//CreationDate = 2017-06-07T12:51:26.950//Tags = <java><spring><unit-testing><junit>//Score = 0//Title = JUnit test - asset or verify (or both) on a mock object?//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2012-03-20T17:24:47.367//Tags = <java><java.util.scanner>//Score = 0//Title = Reading From File in Java and Null Pointer Exception//AnswerCount = 6//CommentCount = 0
+//CreationDate = 2013-03-15T08:01:02.247//Tags = <java><jasper-reports><ireport>//Score = 0//Title = Conversion of String to Date - Unparseable date: "03/26/2012"//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2017-10-02T11:23:52.857//Tags = <java><spring-validator>//Score = 5//Title = Multiple constraints spring validation//AnswerCount = 2//CommentCount = 2//FavoriteCount = 0
+//CreationDate = 2019-07-14T14:01:38.050//Tags = <java><android><android-asynctask><android-9.0-pie>//Score = 0//Title = Why this code do not run on android 9 correctly?//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2018-08-24T08:01:28.627//Tags = <java><spring><jdbc><spring-jdbc>//Score = 1//Title = Could not open JDBC Connection for transaction//AnswerCount = 0//CommentCount = 5
+//CreationDate = 2016-07-03T18:07:02.870//Tags = <java><android><android-layout>//Score = 0//Title = Why won't my TextView add to RelativeLayout?//AnswerCount = 2//CommentCount = 6
+//CreationDate = 2015-09-04T21:42:16.753//Tags = <java><android><web-services><soap><wsdl>//Score = 1//Title = SOAP WSDL request works for one method, but not for the other - Android//AnswerCount = 0//CommentCount = 0
+//CreationDate = 2015-09-04T21:42:16.753//Tags = <java><android><web-services><soap><wsdl>//Score = 1//Title = SOAP WSDL request works for one method, but not for the other - Android//AnswerCount = 0//CommentCount = 0
+//CreationDate = 2011-12-10T10:51:15.500//Tags = <java><multithreading>//Score = 3//Title = Java: Thread.sleep() inside while loop not working//AnswerCount = 2//CommentCount = 1
+//CreationDate = 2016-04-19T03:09:14.777//Tags = <java>//Score = -1//Title = Rewrite existing code with Java 8 Lambda//AnswerCount = 1//CommentCount = 5
+//CreationDate = 2013-08-26T10:55:15.243//Tags = <java><regex>//Score = 0//Title = Regex checking runs infinite time//AnswerCount = 2//CommentCount = 3
+//CreationDate = 2013-08-26T10:55:15.243//Tags = <java><regex>//Score = 0//Title = Regex checking runs infinite time//AnswerCount = 2//CommentCount = 3
+//CreationDate = 2015-02-26T08:02:31.813//Tags = <java><android><json>//Score = -4//Title = How to flat json in android//AnswerCount = 2//CommentCount = 3
+//CreationDate = 2017-01-15T20:06:07.643//Tags = <java><libgdx>//Score = 0//Title = Numbers in diagonally/historical incrementation sequence//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2017-12-08T16:09:49.793//Tags = <java><c><multithreading><file>//Score = 2//Title = How to send from JAVA String(path of file) to C?//AnswerCount = 3//CommentCount = 4
+//CreationDate = 2019-05-28T09:32:32.283//Tags = <java><optimization>//Score = 5//Title = Java best practices static final map values//AnswerCount = 5//CommentCount = 1
+//CreationDate = 2018-08-10T08:20:12.903//Tags = <java><android><nfc>//Score = 1//Title = Converting a reversed Hexadecimal String to Decimal//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2018-08-10T08:20:12.903//Tags = <java><android><nfc>//Score = 1//Title = Converting a reversed Hexadecimal String to Decimal//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2018-05-17T03:37:42.233//Tags = <java><scala><sbt><package>//Score = 0//Title = ClassNotFoundException when adding package at the first line of the main file//AnswerCount = 0//CommentCount = 6
+//CreationDate = 2018-08-10T08:20:12.903//Tags = <java><android><nfc>//Score = 1//Title = Converting a reversed Hexadecimal String to Decimal//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2019-08-22T10:31:50.443//Tags = <java><json><rest><jackson><jersey-client>//Score = 1//Title = How to fix MessageBodyProviderNotFoundException with Jersey Client using Jackson?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2019-08-22T10:31:50.443//Tags = <java><json><rest><jackson><jersey-client>//Score = 1//Title = How to fix MessageBodyProviderNotFoundException with Jersey Client using Jackson?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2020-04-15T00:00:44.793//Tags = <java><hibernate><jpa>//Score = 0//Title = HHH000204: Processing PersistenceUnitInfo//AnswerCount = 0//CommentCount = 3
+//CreationDate = 2020-05-11T15:39:41.843//Tags = <java><spring><cors><spring-data><spring-data-rest>//Score = -1//Title = CORS issue in Spring Boot + Spring Data Rest Repositories annotated with @CrossOrigin//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-04-11T11:35:08.877//Tags = <java><arrays><char>//Score = -1//Title = Reading chars from input//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2015-04-11T11:35:08.877//Tags = <java><arrays><char>//Score = -1//Title = Reading chars from input//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2015-04-11T11:35:08.877//Tags = <java><arrays><char>//Score = -1//Title = Reading chars from input//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2017-06-15T11:25:05.930//Tags = <java><android><split>//Score = -4//Title = Splitting a string at a defined sign - especially "("//AnswerCount = 1//CommentCount = 8
+//CreationDate = 2016-04-27T05:43:43.640//Tags = <java><spring-data><spring-data-jpa>//Score = 1//Title = how to use spring data jpa Sort.Order.nullslast//AnswerCount = 1//CommentCount = 2//FavoriteCount = 0
+//CreationDate = 2016-09-15T06:04:44.707//Tags = <java><android><android-studio><double><textwatcher>//Score = 0//Title = Stuck with Android Studio: Using "Double" for Text Watcher//AnswerCount = 2//CommentCount = 3
+//CreationDate = 2018-05-16T14:33:51.190//Tags = <java><list><spring-mvc><vaadin><user-input>//Score = 0//Title = Displaying user input via list//AnswerCount = 1//CommentCount = 5
+//CreationDate = 2013-01-02T06:11:37.267//Tags = <java><apache-poi><excel-2010>//Score = 10//Title = Apache-POI: Unable to write to an existing workbook//AnswerCount = 5//CommentCount = 5//FavoriteCount = 1
+//CreationDate = 2013-06-25T15:38:11.103//Tags = <java><jakarta-ee><eclipselink><criteria-api>//Score = 1//Title = How to query for the key in a JPA ElementCollection map having an enum as value and using CriteriaQuery?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2018-08-06T01:49:50.053//Tags = <java><comparator>//Score = 0//Title = Inconsistency in Java's compareTo method on Strings//AnswerCount = 0//CommentCount = 3
+//CreationDate = 2016-09-22T19:09:08.530//Tags = <java><android><checkbox><boolean>//Score = 0//Title = Calculating correct score on simple quiz application with CheckBox//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2013-07-28T13:17:36.743//Tags = <java><file><io><filewriter>//Score = 0//Title = Clarification about FileWriter//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2013-03-12T05:59:26.070//Tags = <java>//Score = -2//Title = Finding a File within Filesystem//AnswerCount = 2//CommentCount = 4
+//CreationDate = 2019-01-15T05:49:12.343//Tags = <java><jtable><rowfilter>//Score = 1//Title = How to print specific Column values of the filtered Row//AnswerCount = 0//CommentCount = 0
+//CreationDate = 2016-07-05T20:51:55.293//Tags = <java><reflection>//Score = 0//Title = Reflection to access values that are nested classes//AnswerCount = 2//CommentCount = 6
+//CreationDate = 2017-11-30T03:29:58.307//Tags = <java><postgresql><hibernate><jpa><spring-boot>//Score = 0//Title = spring boot: hibernate cannot mapping entity to table in postgresql: spring boot//AnswerCount = 2//CommentCount = 3//FavoriteCount = 0
+//CreationDate = 2018-08-07T07:36:26.730//Tags = <java><kubernetes><google-kubernetes-engine>//Score = 0//Title = how to download file from folder inside kubernetes container using browser ? we are using java and K8//AnswerCount = 0//CommentCount = 8
+//CreationDate = 2015-08-11T20:23:56.607//Tags = <java><jframe>//Score = 0//Title = Multiple frame movements in java//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2020-06-13T22:39:16.597//Tags = <java><windows><permissions><acl><java-11>//Score = 1//Title = is it normal that the AclEntry.add () method does not change a permanent access permission?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-06-20T01:48:06.217//Tags = <java><regex>//Score = 2//Title = Find position of substring within string with conditions//AnswerCount = 1//CommentCount = 4
+//CreationDate = 2017-02-17T03:18:20.627//Tags = <java><bash><javafx><cd>//Score = 1//Title = How to go into particular Directory (cd) and perform bash command(python server) in it through java?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-06-10T16:02:53.907//Tags = <java><sockets><exception><port>//Score = 0//Title = "BindException: Address already in use" exception when transferring file using java socket in a same pc//AnswerCount = 2//CommentCount = 2

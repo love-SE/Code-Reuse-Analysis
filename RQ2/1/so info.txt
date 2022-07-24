@@ -1,0 +1,160 @@
+//CreationDate = 2018-11-20T04:43:42.950//Tags = <java><arrays><sorting>//Score = 0//Title = How can I add something to my array without having a something already in the array disappear?//AnswerCount = 0//CommentCount = 3
+//CreationDate = 2019-01-14T07:30:08.060//Tags = <java><immutability>//Score = 41//Title = Why is this class mutable?//AnswerCount = 2//CommentCount = 3//FavoriteCount = 5
+//CreationDate = 2019-01-14T07:30:08.060//Tags = <java><immutability>//Score = 41//Title = Why is this class mutable?//AnswerCount = 2//CommentCount = 3//FavoriteCount = 5
+//CreationDate = 2016-09-04T22:06:30.077//Tags = <java><maven><jar>//Score = 0//Title = Issues with creating a jar file//AnswerCount = 2//CommentCount = 7
+//CreationDate = 2015-12-02T20:42:26.130//Tags = <java><arrays><sorting><indices>//Score = 2//Title = sort an array, so that first and last element will form a "pair"//AnswerCount = 4//CommentCount = 5
+//CreationDate = 2015-02-17T06:11:20.087//Tags = <java><android><google-cloud-messaging>//Score = 1//Title = Using GCM service in android//AnswerCount = 3//CommentCount = 0//FavoriteCount = 1
+//CreationDate = 2016-09-21T15:16:30.653//Tags = <java><servlets><struts2>//Score = -2//Title = java.lang.NoSuchMethodException struts servlet//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2012-05-03T10:24:52.437//Tags = <java><android><contextmenu><android-viewpager>//Score = 4//Title = ViewPager with ContextMenu which is different for each view//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-11-14T10:22:01.587//Tags = <java><android><twitter><twitter-oauth><twitter-timeline>//Score = 3//Title = Twitter pagination for home_timeline API not working//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-11-14T10:22:01.587//Tags = <java><android><twitter><twitter-oauth><twitter-timeline>//Score = 3//Title = Twitter pagination for home_timeline API not working//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-04-07T15:28:31.970//Tags = <java><mysql><xml>//Score = 0//Title = MySQL insert data from XML file//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2015-05-06T10:14:30.660//Tags = <java><google-app-engine><dictionary><google-cloud-datastore><objectify>//Score = 0//Title = Objectify - Partial indexing of a Map<> object based on key name//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2014-07-13T16:44:19.793//Tags = <java><macos><audio><port>//Score = 0//Title = Java Sound on OSX no Port.Info Type supported//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2015-03-15T23:47:43.063//Tags = <java><spring>//Score = 0//Title = Sorting Spring table by clicking on column header//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2013-09-19T08:08:33.797//Tags = <java>//Score = -1//Title = Using conditionals to compare integers?//AnswerCount = 2//CommentCount = 4
+//CreationDate = 2016-11-22T17:05:45.337//Tags = <java><spring><jboss>//Score = 0//Title = Where to place a configuration file outside application war//AnswerCount = 1//CommentCount = 5
+//CreationDate = 2014-08-29T13:35:12.383//Tags = <java><algorithm><tree>//Score = 0//Title = Ensuring failure atomicity in tree-like structures//AnswerCount = 1//CommentCount = 7
+//CreationDate = 2016-09-12T09:39:26.157//Tags = <java><android><firebase><firebase-notifications>//Score = 6//Title = 'Error sending message' Firebase Cloud Messaging Service//AnswerCount = 1//CommentCount = 6
+//CreationDate = 2011-09-08T05:04:04.747//Tags = <java><constructor><for-loop><repeat><infinite>//Score = 1//Title = Java For Loop Inside Constructor is Infinitely Repeating//AnswerCount = 1//CommentCount = 4
+//CreationDate = 2012-04-15T18:03:19.713//Tags = <java><android><oauth-2.0><signpost>//Score = 0//Title = Why this error: Could not find class 'oauth.signpost.http.HttpParameters//AnswerCount = 2//CommentCount = 0//FavoriteCount = 1
+//CreationDate = 2016-11-22T19:57:40.347//Tags = <java><string><file>//Score = 0//Title = how to save a file exactly as it is from a String java//AnswerCount = 2//CommentCount = 1
+//CreationDate = 2014-12-12T02:22:18.220//Tags = <java><windows><batch-file><ip><host>//Score = -1//Title = How to if machine is a windows PC using IP Address or Hostname?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-04-21T08:16:34.370//Tags = <java><arrays>//Score = 0//Title = Java: my array returns 0, why?//AnswerCount = 0//CommentCount = 3
+//CreationDate = 2012-02-27T20:58:55.730//Tags = <java><html><jsoup>//Score = 0//Title = JSoup Document structure issue//AnswerCount = 2//CommentCount = 1
+//CreationDate = 2020-03-12T12:14:55.233//Tags = <java><hibernate><spring-mvc><session><jpa>//Score = 0//Title = Unable to retrieve the user identity (userName and password)from mysql to login//AnswerCount = 1//CommentCount = 2//FavoriteCount = 0
+//CreationDate = 2018-12-03T06:12:52.480//Tags = <java>//Score = 0//Title = Dynamicaly set class instance variable in java//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2018-12-13T22:54:21.860//Tags = <java>//Score = 0//Title = Reading a file, storing it in an arraylist, Iterating through the array, print data//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2014-07-22T12:38:09.547//Tags = <java><html><testing><selenium><automation>//Score = 1//Title = How to click on the Span class element//AnswerCount = 4//CommentCount = 4
+//CreationDate = 2012-12-24T22:28:16.000//Tags = <java><android><networking>//Score = 1//Title = Java Android OutputStreamWriter IOException//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2016-10-24T10:48:43.803//Tags = <java><jboss><single-sign-on><wildfly-8><picketlink>//Score = 0//Title = Invalid keystore format error while implementing SSO with SAML in EAP wildfly//AnswerCount = 0//CommentCount = 4
+//CreationDate = 2016-02-14T21:52:40.387//Tags = <java><android>//Score = -1//Title = Cannot find symbol class ScaleListener (For Pinch Zoom Feature)//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2018-01-18T18:32:57.213//Tags = <java><android><xml>//Score = 1//Title = Error inflating class MaterialEditText//AnswerCount = 0//CommentCount = 1//FavoriteCount = 1
+//CreationDate = 2016-06-24T16:11:51.297//Tags = <java><maven><dropwizard>//Score = 0//Title = Dropwizard cannot load client side files//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2014-09-04T06:41:20.597//Tags = <java><mongodb><mongodb-query><aggregation-framework>//Score = 0//Title = Mongo DB Aggregate Query returns in Batches//AnswerCount = 3//CommentCount = 0//FavoriteCount = 1
+//CreationDate = 2013-10-26T20:36:19.767//Tags = <java><android>//Score = 0//Title = Cannot Access LinkedHashMap in inner class//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2019-12-12T10:34:23.400//Tags = <java><spring-boot><spring-mvc><spring-security><error-handling>//Score = 1//Title = Custom message in Spring AccessDeniedException//AnswerCount = 2//CommentCount = 2
+//CreationDate = 2020-08-27T10:49:33.750//Tags = <java><jackson>//Score = 3//Title = JsonDeserialize not work for LocalDateTime//AnswerCount = 2//CommentCount = 4
+//CreationDate = 2018-03-01T04:46:40.947//Tags = <java><spring-security><oauth-2.0><jhipster><spring-security-oauth2>//Score = 0//Title = Controlling authentication redirects with JHipster, Spring Security, and oauth2//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-11-13T14:23:50.263//Tags = <java><multithreading><java-8>//Score = 10//Title = Is ForkJoinPool.commonPool() equivalent to no pool?//AnswerCount = 1//CommentCount = 5//FavoriteCount = 3
+//CreationDate = 2013-03-08T20:41:10.237//Tags = <java><servlets>//Score = 1//Title = Clear Expanation for ServletContext context=getServletContext();//AnswerCount = 3//CommentCount = 3
+//CreationDate = 2016-05-06T13:35:35.703//Tags = <java><nullpointerexception><null-pointer>//Score = 0//Title = NullPointerException when printing results from array//AnswerCount = 0//CommentCount = 3
+//CreationDate = 2015-04-29T05:39:05.097//Tags = <java><jsp>//Score = 2//Title = format double value to two decimal places in EL expression in jsp//AnswerCount = 1//CommentCount = 2//FavoriteCount = 1
+//CreationDate = 2011-01-22T15:11:50.277//Tags = <java><hibernate><orm><grails><hql>//Score = 3//Title = "NOT IN" with HQL and Grails//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2012-08-16T17:44:56.670//Tags = <java><string><collections>//Score = 22//Title = How to determine if a list of string contains null or empty elements//AnswerCount = 6//CommentCount = 4//FavoriteCount = 4
+//CreationDate = 2017-12-08T16:09:49.793//Tags = <java><c><multithreading><file>//Score = 2//Title = How to send from JAVA String(path of file) to C?//AnswerCount = 3//CommentCount = 4
+//CreationDate = 2019-12-24T11:47:53.830//Tags = <java><selenium><xpath><css-selectors><webdriverwait>//Score = 0//Title = Unable to click on element using Selenium in Safari 13.0.4//AnswerCount = 2//CommentCount = 2
+//CreationDate = 2014-12-06T00:47:19.557//Tags = <java><libgdx><asset-management>//Score = 0//Title = libgdx AssetManager.finishLoading() not working//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2012-07-10T19:47:07.867//Tags = <java><jsp>//Score = 0//Title = How do I call this object to return all strings it finds?//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2017-07-26T08:43:24.777//Tags = <java>//Score = -1//Title = Types annotation that holds string array values//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2018-12-24T06:28:00.957//Tags = <java><android><android-fragments>//Score = 0//Title = Why i cant pass bundle from fragment to activity//AnswerCount = 1//CommentCount = 6
+//CreationDate = 2018-11-14T04:07:54.507//Tags = <java><opencv><cmake><homebrew>//Score = 1//Title = Choosing Java version when Installing OpenCV with Homebrew//AnswerCount = 1//CommentCount = 4//FavoriteCount = 0
+//CreationDate = 2011-05-31T01:11:48.980//Tags = <java><ant>//Score = 3//Title = The meaning of **/* in the Ant script//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2017-11-28T19:57:19.523//Tags = <java><spring-boot><spring-data><integration-testing>//Score = 0//Title = Spring Boot / Spring Data integration tests//AnswerCount = 3//CommentCount = 5
+//CreationDate = 2014-04-21T00:15:51.493//Tags = <java><android>//Score = 0//Title = Having trouble creating an android app//AnswerCount = 2//CommentCount = 3
+//CreationDate = 2014-04-29T11:32:58.503//Tags = <java><spring-aop>//Score = 1//Title = Can we apply AOP aspects to multi maven project//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-12-01T06:41:09.113//Tags = <java><android><multithreading>//Score = 0//Title = Wait until method finish inside for loop android//AnswerCount = 1//CommentCount = 4
+//CreationDate = 2016-05-25T15:20:58.690//Tags = <java><android><canvas><alarmmanager><toast>//Score = 0//Title = Java Android create canvas that will pop-up automatically at a specified date//AnswerCount = 0//CommentCount = 3
+//CreationDate = 2011-06-27T14:44:36.800//Tags = <java><hibernate>//Score = 4//Title = Hibernate Criteria paging//AnswerCount = 3//CommentCount = 0
+//CreationDate = 2019-01-03T16:22:52.213//Tags = <java><selenium-chromedriver>//Score = 2//Title = Is there a way to set implicit timeouts beyond the driver.manage().timeouts() method?//AnswerCount = 1//CommentCount = 1//FavoriteCount = 1
+//CreationDate = 2019-05-30T17:29:16.063//Tags = <java><r><memory><bartmachine>//Score = 0//Title = bartMachine builds up memory usage when executed repeatedly//AnswerCount = 0//CommentCount = 2
+//CreationDate = 2019-05-30T17:29:16.063//Tags = <java><r><memory><bartmachine>//Score = 0//Title = bartMachine builds up memory usage when executed repeatedly//AnswerCount = 0//CommentCount = 2
+//CreationDate = 2016-11-10T18:14:59.040//Tags = <java><console><apache-kafka><apache-zookeeper>//Score = 3//Title = When does Kafka connection require ZooKeeper config?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-11-10T18:14:59.040//Tags = <java><console><apache-kafka><apache-zookeeper>//Score = 3//Title = When does Kafka connection require ZooKeeper config?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2018-12-02T09:48:11.280//Tags = <java><json><rest-assured><jsonpath><rest-assured-jsonpath>//Score = 0//Title = How to update json using io.rest-assured//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2013-12-28T17:19:42.663//Tags = <java><json><jsp><struts2>//Score = 0//Title = sending JSON from java server to jsp client with Action (without doGet/doPost)//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2016-11-30T23:32:17.520//Tags = <java><arrays><netbeans><user-input>//Score = 0//Title = Determining number of students in each level//AnswerCount = 1//CommentCount = 7//FavoriteCount = 1
+//CreationDate = 2018-12-20T14:53:52.050//Tags = <java><android><gson><pojo>//Score = 1//Title = POJO for JSON array without keys [Long, Double]//AnswerCount = 3//CommentCount = 4
+//CreationDate = 2017-11-01T20:29:20.223//Tags = <java><2d><computer-science><game-engine><rectangles>//Score = 0//Title = Rotating objects in java//AnswerCount = 0//CommentCount = 2//FavoriteCount = 0
+//CreationDate = 2019-03-20T11:00:41.503//Tags = <java><linux><macos><jlink>//Score = 2//Title = Creating osx java app distribution on linux host//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2011-11-21T08:43:31.877//Tags = <java><math>//Score = 1//Title = Creating a very simple cannon simulator. Occasionally getting a negative x velocity//AnswerCount = 7//CommentCount = 5
+//CreationDate = 2014-04-03T13:47:36.360//Tags = <java><logging><logback>//Score = 2//Title = Remove logback console appender (or override pattern)//AnswerCount = 0//CommentCount = 0
+//CreationDate = 2016-07-12T14:06:10.417//Tags = <java><c++><sockets><tcp>//Score = 1//Title = How to implement TCP server in java and TCP Client in cpp to transfer string//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2014-08-13T02:30:19.763//Tags = <java><linux><date><ubuntu><epoch>//Score = 3//Title = Java Converting date to epoch value produces false output//AnswerCount = 3//CommentCount = 1
+//CreationDate = 2013-10-13T20:22:23.147//Tags = <java><mysql><netbeans><jdbc>//Score = 0//Title = Unable to connect SQL database in Netbeans//AnswerCount = 2//CommentCount = 5
+//CreationDate = 2016-11-06T18:20:12.113//Tags = <java><timestamp><simpledateformat>//Score = 0//Title = Converting String to Timestamp, SimpleDateFormat, Omiting fields//AnswerCount = 0//CommentCount = 8//FavoriteCount = 0
+//CreationDate = 2017-04-03T15:24:03.250//Tags = <java><spring><maven><jdbc><spring-boot>//Score = 2//Title = ClassNotFoundException with Spring Boot and ibm JDBC driver//AnswerCount = 1//CommentCount = 4
+//CreationDate = 2018-08-29T08:29:40.583//Tags = <java><regex>//Score = 1//Title = get content inside specific words in file using java regex//AnswerCount = 0//CommentCount = 4
+//CreationDate = 2013-12-19T08:40:48.177//Tags = <java><android><android-layout><layout>//Score = 0//Title = how to implement a hint text with white spaces in android//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2014-07-19T09:17:10.320//Tags = <java><android>//Score = 0//Title = How can i calculate difference in seocnds between a predefined date time and recent date time//AnswerCount = 3//CommentCount = 0
+//CreationDate = 2013-09-04T19:28:11.383//Tags = <java><android>//Score = 0//Title = Android: save object onPause() and read object onResume()//AnswerCount = 2//CommentCount = 2
+//CreationDate = 2015-04-17T09:25:10.103//Tags = <java><compilation><javac>//Score = 0//Title = Why do we need to ask javac to compile multiple source files?//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2016-08-01T09:37:40.193//Tags = <java><google-drive-api>//Score = -1//Title = Downloaded file with Google Drive API. Can't find it anywhere//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-04-21T17:52:21.303//Tags = <java><web-services><scala><playframework>//Score = 0//Title = WS API in Play framework using Scala is giving java.net.ConnectException error//AnswerCount = 0//CommentCount = 3
+//CreationDate = 2015-10-12T16:37:56.553//Tags = <java><selenium><automation>//Score = 1//Title = Select WebElement by text within HTML//AnswerCount = 2//CommentCount = 3
+//CreationDate = 2016-08-05T04:37:48.527//Tags = <java><enums><variadic-functions>//Score = 10//Title = "Potential heap pollution via varargs parameter" for Enum<E>... why?//AnswerCount = 1//CommentCount = 0//FavoriteCount = 1
+//CreationDate = 2018-05-01T23:02:41.070//Tags = <java><jpanel>//Score = 0//Title = NullPointer in getGraphics() in JPanel//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2010-08-03T11:53:17.390//Tags = <java><generics><collections>//Score = 7//Title = Java Collections: Pass collection of children as collection of parents//AnswerCount = 3//CommentCount = 1//FavoriteCount = 1
+//CreationDate = 2010-08-03T11:53:17.390//Tags = <java><generics><collections>//Score = 7//Title = Java Collections: Pass collection of children as collection of parents//AnswerCount = 3//CommentCount = 1//FavoriteCount = 1
+//CreationDate = 2018-06-26T16:57:22.227//Tags = <java><spring><maven><spring-boot><spring-annotations>//Score = 2//Title = Unable to resolve @RestController annotation in spring 2.0.3//AnswerCount = 3//CommentCount = 5
+//CreationDate = 2019-02-14T10:55:49.770//Tags = <java><mongodb><spring-data><spring-data-mongodb>//Score = 0//Title = Spring Data Mongodb Using Object Type to Collection//AnswerCount = 1//CommentCount = 8
+//CreationDate = 2018-01-02T05:45:40.863//Tags = <java><cassandra><cassandra-3.0><high-availability>//Score = 1//Title = High Availability in Cassandra//AnswerCount = 1//CommentCount = 0//FavoriteCount = 1
+//CreationDate = 2014-12-15T19:55:42.073//Tags = <java><arrays>//Score = 0//Title = Less input values than array length//AnswerCount = 6//CommentCount = 2
+//CreationDate = 2016-08-30T19:22:41.223//Tags = <java><javafx><delay>//Score = 1//Title = Add delay after Platform.runLater runnable//AnswerCount = 1//CommentCount = 0//FavoriteCount = 2
+//CreationDate = 2018-10-17T05:20:32.183//Tags = <java><algorithm><encoding>//Score = 0//Title = "Encoding" algorithm giving different result in separate method//AnswerCount = 0//CommentCount = 4
+//CreationDate = 2018-10-17T05:20:32.183//Tags = <java><algorithm><encoding>//Score = 0//Title = "Encoding" algorithm giving different result in separate method//AnswerCount = 0//CommentCount = 4
+//CreationDate = 2020-03-26T22:33:01.113//Tags = <java><image><bufferedimage><javax.imageio><nebula>//Score = 0//Title = How to Output Shell Graphics to JPG files in Eclipse Nebula?//AnswerCount = 0//CommentCount = 0
+//CreationDate = 2017-10-19T03:06:43.053//Tags = <java><android><arraylist><onclicklistener>//Score = -1//Title = Check if setOnItemClickListener is selected//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2016-06-19T19:58:49.200//Tags = <java><eclipse><apache><tomcat><servlets>//Score = 1//Title = Apache Tomcat 8 at local host failed to start- eclipse//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2018-03-04T14:39:51.737//Tags = <java><android>//Score = -1//Title = populate one edit text based on input of another android//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2013-05-15T22:58:50.123//Tags = <java>//Score = 3//Title = What is the simplest way to declare an array that has the same values as another array with one extra position?//AnswerCount = 4//CommentCount = 1
+//CreationDate = 2018-04-10T12:52:18.887//Tags = <java><bytecode><jit><jvm-hotspot><hotspot>//Score = 15//Title = unexplained 10%+ performance boost from simply adding a method argument (slimmer jit code)//AnswerCount = 2//CommentCount = 13//FavoriteCount = 5
+//CreationDate = 2016-06-10T12:55:22.723//Tags = <java><eclipse>//Score = 0//Title = Restrict access between source folders in Eclipse//AnswerCount = 2//CommentCount = 0//FavoriteCount = 1
+//CreationDate = 2016-04-12T07:10:10.230//Tags = <java><loops><for-loop><arraylist><while-loop>//Score = 0//Title = Returning Elements From ArrayList Alphabetically//AnswerCount = 5//CommentCount = 0
+//CreationDate = 2017-11-28T19:59:13.957//Tags = <java><algorithm><a-star>//Score = -1//Title = A* Pathfinding - Weird Bug in Multi-Floored Maps//AnswerCount = 2//CommentCount = 7
+//CreationDate = 2016-09-06T07:44:53.030//Tags = <java><netty><dependency-management><nosuchmethoderror>//Score = 1//Title = Dependency convergence error due to three open source projects Apache Drill, Apache Hadoop and Elastic search uses different version of io.netty//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2017-09-29T06:13:17.457//Tags = <java><mysql>//Score = 0//Title = convert String to int or default integer in MySQL//AnswerCount = 2//CommentCount = 3
+//CreationDate = 2017-06-09T09:44:54.143//Tags = <java><python><jvm><jpype>//Score = 3//Title = check connection jpype - java//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2017-06-09T09:44:54.143//Tags = <java><python><jvm><jpype>//Score = 3//Title = check connection jpype - java//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-07-10T01:12:40.703//Tags = <java><symbolic-math><algebra><calculus>//Score = 7//Title = Calculus Limits with Java//AnswerCount = 2//CommentCount = 1//FavoriteCount = 2
+//CreationDate = 2018-07-21T05:16:40.033//Tags = <java><selenium-webdriver><automation><webdriver>//Score = 0//Title = Getting selenium support pagefactory DefaultElementLocator findElement nullpointerexception for driver//AnswerCount = 2//CommentCount = 2
+//CreationDate = 2018-07-21T05:16:40.033//Tags = <java><selenium-webdriver><automation><webdriver>//Score = 0//Title = Getting selenium support pagefactory DefaultElementLocator findElement nullpointerexception for driver//AnswerCount = 2//CommentCount = 2
+//CreationDate = 2018-07-21T05:16:40.033//Tags = <java><selenium-webdriver><automation><webdriver>//Score = 0//Title = Getting selenium support pagefactory DefaultElementLocator findElement nullpointerexception for driver//AnswerCount = 2//CommentCount = 2
+//CreationDate = 2018-07-21T05:16:40.033//Tags = <java><selenium-webdriver><automation><webdriver>//Score = 0//Title = Getting selenium support pagefactory DefaultElementLocator findElement nullpointerexception for driver//AnswerCount = 2//CommentCount = 2
+//CreationDate = 2013-11-28T04:23:28.120//Tags = <java><android><file-io><textview>//Score = 0//Title = Cannot display file in textview//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2020-03-26T13:13:58.457//Tags = <java><android><android-recyclerview>//Score = 0//Title = if i do loop in onbindView of adapter class android//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2012-12-27T11:01:29.977//Tags = <java><xml-parsing><hl7><hapi>//Score = 1//Title = How can I parse HL7 message starting with FHS//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2019-07-20T13:06:53.430//Tags = <java><linux><raspbian><home-directory>//Score = 0//Title = Java System.getProperty("user.home") how return home for other user (pi)?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2017-01-23T03:59:24.537//Tags = <java><entity-framework><hibernate><maven><jpa>//Score = 0//Title = Multiple persistence-units getting unknown entity exception//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2018-10-19T09:52:02.773//Tags = <java><comparable><compareto>//Score = 0//Title = why compareTo() method of comparable interface is showing uncompile?//AnswerCount = 0//CommentCount = 6
+//CreationDate = 2019-02-04T08:10:43.647//Tags = <java><keycloak><keycloak-services>//Score = 4//Title = Can we create users in Keycloak by sending a json array containing more than 2 user info?//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2012-12-30T23:20:15.523//Tags = <java><javascript><flash><firefox><imacros>//Score = 1//Title = javascript click the flash/swf button on page//AnswerCount = 0//CommentCount = 6
+//CreationDate = 2010-12-14T00:49:17.623//Tags = <java><nullpointerexception><point>//Score = 0//Title = Nullpointer exception when using setLocation of an object of type Point2D.double//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2015-07-18T19:33:19.797//Tags = <java><intellij-idea><jetty><jmx><intellij-14>//Score = 0//Title = Which process is using 1099(jmx) port?//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2018-06-22T06:48:47.527//Tags = <java><android><android-layout><user-interface><android-edittext>//Score = 2//Title = Displaying Drawable in multiple EditText fields//AnswerCount = 0//CommentCount = 3
+//CreationDate = 2017-10-21T13:26:28.327//Tags = <java><mongodb>//Score = 1//Title = Max value of a field with mongo-java-driver//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2014-12-18T11:52:01.167//Tags = <java><apache-spark><rdd>//Score = 1//Title = Spark throws NullPointerException in JdbcRDD on a Cluster with 2 workers//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2014-12-18T11:52:01.167//Tags = <java><apache-spark><rdd>//Score = 1//Title = Spark throws NullPointerException in JdbcRDD on a Cluster with 2 workers//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2018-12-14T05:35:04.597//Tags = <java><datetime-comparison>//Score = 0//Title = not able to catch particular time slot in java//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2013-09-26T00:46:16.347//Tags = <java><java-web-start><drools>//Score = 0//Title = AccessControlException loading drools class in webstart application//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2016-05-20T10:34:22.087//Tags = <java><maven><log4j><log4j2>//Score = 8//Title = Why Log4j thinks my project run in Servlet Environment//AnswerCount = 2//CommentCount = 1
+//CreationDate = 2014-10-26T21:14:19.950//Tags = <java><android><google-maps><android-fragments>//Score = 0//Title = “Error inflating class fragment” on Google Maps v2//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2017-10-14T15:22:24.377//Tags = <java><android><httprequest>//Score = 2//Title = Android code to connect PHP response changed to null//AnswerCount = 0//CommentCount = 5
+//CreationDate = 2014-02-28T00:20:07.753//Tags = <java><hibernate><hibernate-envers>//Score = 0//Title = Hibernate Envers creating modified fields for foreign owned OneToMany relationships//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-10-26T20:52:08.733//Tags = <java><scala><cookies><jersey><jax-rs>//Score = 2//Title = Adding cookie to all responses in Jersey / JAX-RS (Scala)//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2018-02-25T23:01:51.403//Tags = <java><if-statement><multidimensional-array>//Score = 0//Title = Printing User Input/Multidimensional Array//AnswerCount = 2//CommentCount = 0
+//CreationDate = 2017-12-11T20:03:38.820//Tags = <java><session><servlets><cookies><httpsession>//Score = 0//Title = JSESSIONID cookie missing after creating session//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2018-06-20T21:57:44.383//Tags = <java><jdbc><mysql-workbench><datasource><crud>//Score = 0//Title = How to specify which schema to use once?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2016-08-26T16:55:11.003//Tags = <java><binary>//Score = 0//Title = How do you read in binary data files where the "words" have different byte lengths?//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2018-11-11T03:48:44.967//Tags = <java><android><arraylist>//Score = 0//Title = Arraylist showing this value PlanetData@adf4bee instead of added value//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2014-05-03T19:28:59.413//Tags = <java><eclipse>//Score = 3//Title = Getting Error in Eclipse "Cannot instantiate the type Scanner"//AnswerCount = 1//CommentCount = 0//FavoriteCount = 1
+//CreationDate = 2018-11-16T15:29:08.450//Tags = <java><swing><key-bindings><jspinner>//Score = 0//Title = How to discard all InputMap key bindings for JSpinner?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-03-29T02:11:25.010//Tags = <java><rx-java>//Score = 2//Title = retryWhen operator never retries//AnswerCount = 2//CommentCount = 1
+//CreationDate = 2016-06-21T04:47:15.850//Tags = <java><ajax><jsonp>//Score = -1//Title = jsonp call: missing ) after argument list//AnswerCount = 1//CommentCount = 1
+//CreationDate = 2013-09-27T17:25:59.597//Tags = <java><function><module>//Score = 0//Title = Stepwise verification code cleanup//AnswerCount = 1//CommentCount = 2
+//CreationDate = 2019-11-28T13:11:44.323//Tags = <java><android><android-studio><libgdx>//Score = 0//Title = LibGDX How to put the game in the table? *** FIXED ***//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2015-04-09T13:58:32.867//Tags = <java><xml><exception><bigdata><jena>//Score = 2//Title = Riotexception: No dataset writer for RDF/XML/pretty//AnswerCount = 1//CommentCount = 0//FavoriteCount = 2
+//CreationDate = 2019-01-02T21:14:30.437//Tags = <java><maven><jacoco><jacoco-maven-plugin><maven-pdf-plugin>//Score = 1//Title = Generate PDF file from jacoco and pit//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2020-10-18T15:34:11.043//Tags = <java><methods>//Score = 1//Title = Having trouble calling a method to edit a string from another class in java//AnswerCount = 5//CommentCount = 0
+//CreationDate = 2020-10-18T15:34:11.043//Tags = <java><methods>//Score = 1//Title = Having trouble calling a method to edit a string from another class in java//AnswerCount = 5//CommentCount = 0
+//CreationDate = 2018-10-15T12:38:41.947//Tags = <java><spring-boot><redis><spring-data-redis>//Score = 3//Title = Is there a way to use a entity with @RedisHash in Redis and in a relational Database?//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2018-04-03T20:30:48.500//Tags = <java><android><post><woocommerce><get>//Score = 1//Title = WooCommerce REST API with Android e-commerce app//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2019-08-04T23:41:01.763//Tags = <java><arraylist>//Score = -2//Title = Create a array list from enums//AnswerCount = 2//CommentCount = 3
+//CreationDate = 2015-04-11T11:35:08.877//Tags = <java><arrays><char>//Score = -1//Title = Reading chars from input//AnswerCount = 1//CommentCount = 3
+//CreationDate = 2016-07-25T21:09:50.830//Tags = <java><c#><apache-tika>//Score = 3//Title = convert a word documents to HTML with embedded images by TIKA//AnswerCount = 1//CommentCount = 5//FavoriteCount = 1
+//CreationDate = 2015-05-01T03:03:18.953//Tags = <java><game-engine><affinetransform>//Score = 6//Title = Rotating a bit matrix//AnswerCount = 2//CommentCount = 2
+//CreationDate = 2016-03-28T00:18:08.690//Tags = <java><algorithm><n-queens>//Score = 1//Title = Not able to find possible solutions for N-Queens puzzle//AnswerCount = 1//CommentCount = 1//FavoriteCount = 2
+//CreationDate = 2016-02-15T23:48:50.013//Tags = <java><jakarta-ee><jpa-2.0><openjpa><metamodel>//Score = 0//Title = JPA MetaDataException for different datasources//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2018-07-06T05:49:38.220//Tags = <java><android>//Score = 2//Title = how to get all dates 4 weeks ago in java//AnswerCount = 2//CommentCount = 5//FavoriteCount = 0
+//CreationDate = 2012-05-21T21:45:00.990//Tags = <java><postgresql><triggers><mybatis>//Score = 2//Title = PostgreSQL trigger with a condition//AnswerCount = 1//CommentCount = 0
+//CreationDate = 2014-11-06T10:20:38.100//Tags = <java><android><json><jackson><resttemplate>//Score = 0//Title = Jackson JSON class structure//AnswerCount = 1//CommentCount = 0
