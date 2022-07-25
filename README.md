@@ -2,7 +2,7 @@
 
 # Dataset Description
 
-The data in the excel format in the project is the data set for our analysis. Each column in the dataset clearly indicates the meaning of the data.
+The data in the .xlsx and .csv format in the project is the data set for our analysis. Each column in the dataset clearly indicates the meaning of the data.
 
 
 😄please note that: since the amount of original data of the github projects and SO posts is too large (more than 100GB) to upload to the cloud. Please contact our email if necessary and we will send it.
