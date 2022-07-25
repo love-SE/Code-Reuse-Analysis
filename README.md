@@ -22,5 +22,7 @@ We have put the analysis codes corresponding to different RQs in their respectiv
 
 # GitHub link to previous version
 A previous version of this work [1] was published at the 30th International Conference on Program Comprehension (ICPC’ 22) and this work significantly extends it.  
+GitHub link of the previous version o this work: https://github.com/love-SE/code-reuse-research.
+
 
 [1] Y. Huang, F. Xu, H. Zhou, X. Chen, X. Zhou and T. Wang, "Towards Exploring the Code Reuse from Stack Overflow during Software Development," 2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC), 2022, pp. 548-559, doi: 10.1145/3524610.3527923.
